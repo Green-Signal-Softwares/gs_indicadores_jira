@@ -45,21 +45,21 @@ filtro_data_geral = st.sidebar.date_input(
 )
 st.sidebar.divider()
 st.sidebar.write("Cliente")
-# Para multiselect, não precisamos da opção "Todos"
 lista_clientes = dados_agosto['Organizacoes'].unique().tolist()
 filtro_cliente = st.sidebar.multiselect("Selecione o(s) Cliente(s)",
-                                        options = lista_clientes)
+                                        options = lista_clientes, 
+                                        placeholder ="Selecione os Clientes")
 st.sidebar.divider()
 st.sidebar.write("Issue Type")
 lista_issuetype = dados_agosto['Tipo_Chamado'].unique().tolist()
-filtro_issuetype = st.sidebar.multiselect(
-    "Selecione o(s) Issue Type(s)",
-    options=lista_issuetype)
+filtro_issuetype = st.sidebar.multiselect("Selecione o(s) Issue Type(s)",
+                                            options=lista_issuetype, 
+                                            placeholder="Selecione o Issue")
 
 lista_status = dados_agosto['Status'].unique().tolist()
-filtro_status = st.sidebar.multiselect(
-    "Selecione o(s) Status",
-    options=lista_status
+filtro_status = st.sidebar.multiselect("Selecione o(s) Status",
+                                        options=lista_status,
+                                        placeholder="Selecione os Status"
 )
 
 
