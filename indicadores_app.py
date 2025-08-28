@@ -45,24 +45,24 @@ filtro_data_geral = st.sidebar.date_input(
 )
 st.sidebar.divider()
 st.sidebar.write("Cliente")
+# Para multiselect, não precisamos da opção "Todos"
 lista_clientes = dados_agosto['Organizacoes'].unique().tolist()
 filtro_cliente = st.sidebar.multiselect("Selecione o(s) Cliente(s)",
-                                        options = lista_clientes, 
-                                        placeholder ="Selecione os Clientes")
+                                        options = lista_clientes)
 st.sidebar.divider()
 st.sidebar.write("Issue Type")
 lista_issuetype = dados_agosto['Tipo_Chamado'].unique().tolist()
-filtro_issuetype = st.sidebar.multiselect("Selecione o(s) Issue Type(s)",
-                                            options=lista_issuetype, 
-                                            placeholder="Selecione o Issue")
+filtro_issuetype = st.sidebar.multiselect(
+    "Selecione o(s) Issue Type(s)",
+    options=lista_issuetype)
 
 lista_status = dados_agosto['Status'].unique().tolist()
-filtro_status = st.sidebar.multiselect("Selecione o(s) Status",
-                                        options=lista_status,
-                                        placeholder="Selecione os Status"
+filtro_status = st.sidebar.multiselect(
+    "Selecione o(s) Status",
+    options=lista_status
 )
 
-
+# --- LÓGICA DE FILTRAGEM EM CASCATA (AJUSTADA PARA MULTISELECT) ---
 #Filtro por DATA
 if len(filtro_data_geral) == 2:
     start_date, end_date = filtro_data_geral
@@ -71,19 +71,20 @@ else:
 mask_data = (dados_agosto['criado'].dt.date >= start_date) & (dados_agosto['criado'].dt.date <= end_date)
 df_filtrado_1 = dados_agosto[mask_data]
 
-# Filtro por CLIENTE 
+# Filtro por CLIENTE (lógica ajustada)
+# Se a lista filtro_cliente não estiver vazia (se o utilizador selecionou algo), aplica o filtro.
 if filtro_cliente:
     df_filtrado_2 = df_filtrado_1[df_filtrado_1['Organizacoes'].isin(filtro_cliente)]
 else:
     df_filtrado_2 = df_filtrado_1
 
-#Filtro por ISSUE TYPE 
+#Filtro por ISSUE TYPE (lógica ajustada)
 if filtro_issuetype:
     df_filtrado_3 = df_filtrado_2[df_filtrado_2['Tipo_Chamado'].isin(filtro_issuetype)]
 else:
     df_filtrado_3 = df_filtrado_2
 
-#Filtro por STATUS 
+#Filtro por STATUS (lógica ajustada)
 if filtro_status:
     df_final_filtrado = df_filtrado_3[df_filtrado_3['Status'].isin(filtro_status)]
 else:
