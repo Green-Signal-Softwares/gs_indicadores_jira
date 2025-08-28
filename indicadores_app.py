@@ -1,6 +1,7 @@
 import pandas as pd 
 import streamlit as st
 import plotly.express as px 
+import numpy as np
 from data_loader import initialize_ss_data
 
 st.set_page_config(
