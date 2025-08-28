@@ -1,4 +1,4 @@
-import pandas 
-import streamlit 
-import plotly
-import numpy
+pandas
+streamlit
+plotly
+numpy
