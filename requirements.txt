@@ -1,5 +1,4 @@
 import pandas 
 import streamlit 
-import plotly.express
 import plotly
 import numpy
