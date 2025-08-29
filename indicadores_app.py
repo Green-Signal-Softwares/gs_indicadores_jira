@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px 
 import numpy as np
+from datetime import timedelta
 from data_loader import initialize_ss_data
 
 st.set_page_config(
@@ -32,7 +33,7 @@ dados_agosto['criado'] = pd.to_datetime(dados_agosto['criado'], format='%d/%m/%Y
 dados_agosto['primeira_resposta_horas'] = dados_agosto['primeira_resoista'].apply(converter_para_horas)
 dados_agosto['tempo_resolucao_horas'] = dados_agosto['tempo_de_resolucao'].apply(converter_para_horas)
 
-# --- BARRA LATERAL DE FILTROS ---
+#BARRA LATERAL DE FILTROS
 st.sidebar.title("Filtros Gerais")
 min_date = dados_agosto['criado'].min().date()
 max_date = dados_agosto['criado'].max().date()
@@ -45,7 +46,6 @@ filtro_data_geral = st.sidebar.date_input(
 )
 st.sidebar.divider()
 st.sidebar.write("Cliente")
-# Para multiselect, não precisamos da opção "Todos"
 lista_clientes = dados_agosto['Organizacoes'].unique().tolist()
 filtro_cliente = st.sidebar.multiselect("Selecione o(s) Cliente(s)",
                                         options = lista_clientes)
@@ -62,35 +62,34 @@ filtro_status = st.sidebar.multiselect(
     options=lista_status
 )
 
-# --- LÓGICA DE FILTRAGEM EM CASCATA (AJUSTADA PARA MULTISELECT) ---
 #Filtro por DATA
 if len(filtro_data_geral) == 2:
     start_date, end_date = filtro_data_geral
 else:
     start_date = end_date = filtro_data_geral[0]
+
 mask_data = (dados_agosto['criado'].dt.date >= start_date) & (dados_agosto['criado'].dt.date <= end_date)
 df_filtrado_1 = dados_agosto[mask_data]
 
-# Filtro por CLIENTE (lógica ajustada)
-# Se a lista filtro_cliente não estiver vazia (se o utilizador selecionou algo), aplica o filtro.
+# Filtro por CLIENTE 
 if filtro_cliente:
     df_filtrado_2 = df_filtrado_1[df_filtrado_1['Organizacoes'].isin(filtro_cliente)]
 else:
     df_filtrado_2 = df_filtrado_1
 
-#Filtro por ISSUE TYPE (lógica ajustada)
+#Filtro por ISSUE TYPE 
 if filtro_issuetype:
     df_filtrado_3 = df_filtrado_2[df_filtrado_2['Tipo_Chamado'].isin(filtro_issuetype)]
 else:
     df_filtrado_3 = df_filtrado_2
 
-#Filtro por STATUS (lógica ajustada)
+#Filtro por STATUS 
 if filtro_status:
     df_final_filtrado = df_filtrado_3[df_filtrado_3['Status'].isin(filtro_status)]
 else:
     df_final_filtrado = df_filtrado_3
     
-# --- CÁLCULO DE TODAS AS MÉTRICAS ---
+# CÁLCULO DE TODAS AS MÉTRICAS 
 status_finalizados = ['Entregue', 'Resolvido']
 ticket_aberto = df_final_filtrado[~df_final_filtrado['Status'].isin(status_finalizados)].shape[0]
 ticket_entregue = df_final_filtrado[df_final_filtrado['Status'].isin(status_finalizados)].shape[0]
@@ -100,23 +99,89 @@ total_tickets = df_final_filtrado.shape[0]
 clientes_atendidos = df_final_filtrado['Organizacoes'].nunique()
 
 
+
+prev_start_date = start_date - timedelta(days=30)
+prev_end_date = start_date - timedelta(days=1)
+
+df_anterior_1 = dados_agosto[(dados_agosto['criado'].dt.date >= prev_start_date) & (dados_agosto['criado'].dt.date <= prev_end_date)]
+if filtro_cliente:
+    df_anterior_2 = df_anterior_1[df_anterior_1['Organizacoes'].isin(filtro_cliente)]
+else:
+    df_anterior_2 = df_anterior_1
+if filtro_issuetype:
+    df_anterior_3 = df_anterior_2[df_anterior_2['Tipo_Chamado'].isin(filtro_issuetype)]
+else:
+    df_anterior_3 = df_anterior_2
+if filtro_status:
+    df_anterior_filtrado = df_anterior_3[df_anterior_3['Status'].isin(filtro_status)]
+else:
+    df_anterior_filtrado = df_anterior_3
+
+#porcentagem tickets    
+total_ticket_anterior = df_anterior_filtrado.shape[0]
+ticket_aberto_anterior = df_anterior_filtrado[~df_anterior_filtrado['Status'].isin(status_finalizados)].shape[0]
+ticket_entregue_anterior = df_anterior_filtrado[df_anterior_filtrado['Status'].isin(status_finalizados)].shape[0]
+
+#porcentagem cllientes atendidos
+clientes_atendidos_anterior = df_anterior_filtrado['Organizacoes'].nunique()
+
+#Porcentagem Resposta
+primeira_resposta_anterior = df_anterior_filtrado['primeira_resposta_horas'].mean()
+tempo_conclusao_anterior = df_anterior_filtrado['tempo_resolucao_horas'].mean()
+
+def calcular_delta(atual, anterior):
+    if pd.isna(anterior) or anterior == 0 or pd.isna(atual):
+        return None
+    variacao = ((atual - anterior) / anterior) * 100
+    return f"{variacao:.1f}%"
+
+delta_pr = calcular_delta(primeira_resposta, primeira_resposta_anterior)
+delta_tc = calcular_delta(tempo_conclusao, tempo_conclusao_anterior)
+
+clientes_atendidos_delta = calcular_delta(clientes_atendidos, clientes_atendidos_anterior)
+
+ticket_delta_total = calcular_delta(total_tickets, total_ticket_anterior)
+ticket_delta_aberto = calcular_delta (ticket_aberto, ticket_aberto_anterior)
+ticket_delta_encerrado = calcular_delta (ticket_entregue, ticket_entregue_anterior)
+
 st.title("Indicadores SLA 📉")
-colquantidade,coltempo, colgraficos= st.columns([33,33,33])
+colquantidade, coltickets,coltempo= st.columns([30,30,40])
 with colquantidade:
     st.subheader("Relatório Tickets")
-    st.metric("Tickets Aberto:", value=ticket_aberto)
-    st.metric("Tickets Finalizados:", value=ticket_entregue) 
+    st.metric("Total de Tickets:", value=f"{total_tickets:.1f}" if not pd.isna(total_tickets) else "N/A",
+                delta=ticket_delta_total,
+                delta_color="inverse",
+                border = True)
+    st.metric("Tickets em Aberto:",  value=f"{ticket_aberto:.1f}" if not pd.isna(ticket_aberto) else "N/A",
+                delta=ticket_delta_encerrado,
+                delta_color="inverse",
+                border = True)
+         
+with coltickets: 
+        st.subheader("  ")
+        st.metric("Total de Clientes Atendidos:", value=f"{clientes_atendidos}" if not pd.isna(clientes_atendidos) else "N/A",
+                  delta=clientes_atendidos_delta,
+                  delta_color="inverse",
+                  border=True) 
+        st.metric("Tickets Finalizados:", value=f"{ticket_entregue:.1f}" if not pd.isna(ticket_entregue) else "N/A",
+                delta=ticket_delta_aberto,
+                delta_color="inverse",
+                border = True)
+
 with coltempo:
     st.subheader("Tempo Médio de Resposta")
-    st.metric("Primeira Resposta:", value=f"{primeira_resposta:.1f} horas" if not pd.isna(primeira_resposta) else "N/A")
-    st.metric("Resolução:", value=f"{tempo_conclusao:.1f} horas" if not pd.isna(tempo_conclusao) else "N/A")
-with colgraficos:
-    st.subheader("Visão Geral do Período")
-    st.metric("Total de Tickets:", value = total_tickets)
-    st.metric("Total de Clientes Atendidos:", value=clientes_atendidos)
+    st.metric("Primeira Resposta:", value=f"{primeira_resposta:.1f} horas" if not pd.isna(primeira_resposta) else "N/A",
+                 delta=delta_pr,
+                 delta_color="inverse",
+                 border=True)
+    st.metric("Resolução:", value=f"{tempo_conclusao:.1f} horas" if not pd.isna(tempo_conclusao) else "N/A",
+                  delta=delta_tc,
+                 delta_color="inverse",
+                 border=True)
+
 st.divider()
 
-# --- GRÁFICO DE RANKING ---
+# GRÁFICO  RANKING 
 st.subheader("Ranking de Chamados por Cliente")
 ranking_data = df_final_filtrado.groupby(['Organizacoes', 'Tipo_Chamado']).size().reset_index(name='Quantidade')
 total_por_org = ranking_data.groupby('Organizacoes')['Quantidade'].sum().sort_values(ascending=False).index
@@ -137,7 +202,7 @@ grafico_ranking.update_layout(
 )
 st.plotly_chart(grafico_ranking, use_container_width=True)
 
-
+st.divider()
 
 colissuetype, colticketstatus = st.columns([50, 50])
 
@@ -205,19 +270,3 @@ with colticketstatus:
     )
     bar_chart.update_traces(textposition='outside')
     st.plotly_chart(bar_chart, use_container_width=True)
-
-
-
-
-    
-    
-    
-
-    
-        
-
-
-
-
-
-
