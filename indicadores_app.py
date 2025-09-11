@@ -270,5 +270,5 @@ with colticketstatus:
     )
     bar_chart.update_traces(textposition='outside')
     st.plotly_chart(bar_chart, use_container_width=True)
+st.divider()
     
-    st.write("Alteração via commit")
