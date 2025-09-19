@@ -41,7 +41,7 @@ CONFIG = _cleanup(
             "cython": {
                 "name": "cython",
                 "linker": r"cython",
-                "version": "3.1.2",
+                "version": "3.1.3",
                 "commands": r"cython",
                 "args": r"",
                 "linker args": r"",
@@ -93,7 +93,7 @@ CONFIG = _cleanup(
             },
         },
         "Python Information": {
-            "path": r"/tmp/build-env-cy0nuk24/bin/python",
+            "path": r"/tmp/build-env-w4xgk5bb/bin/python",
             "version": "3.12",
         },
         "SIMD Extensions": {
