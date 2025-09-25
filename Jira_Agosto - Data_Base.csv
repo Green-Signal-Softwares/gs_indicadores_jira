@@ -1,46 +1,256 @@
 Tipo_Chamado,Status,Organizacoes,criado,primeira_resoista,tempo_de_resolucao
-Bug,Em progresso,Sintesc,11/09/2025,-00:23:00,19:54
-Bug,Em progresso,Sintesc,10/09/2025,00:11,14:56
-New Feature,Pendente,Solução em Focco,10/09/2025,00:18,13:59
-New Feature,Pendente,Sintesc,10/09/2025,00:05,12:40
-Bug,Em progresso,Sintesc,10/09/2025,00:13,12:27
+HelpDesk Support,Fazendo,Claro - Antiquebra,31/07/2025,23:39,-270:19:00
+New Feature,Reaberto,Claro - Hub de Aparelhos,18/07/2025,16:00,
+HelpDesk Support,Resolvido,Sintesc,29/08/2025,00:07,-62:38:00
+HelpDesk Support,Resolvido,Jaguar Mining,22/08/2025,06:35,
+HelpDesk Support,Resolvido,Kaptha Lead,11/08/2025,23:07,39:42:00
+HelpDesk Support,Resolvido,Kaptha Lead,11/08/2025,20:54,44:54:00
+HelpDesk Support,Resolvido,Claro - Antiquebra,08/08/2025,19:54,-80:54:00
+HelpDesk Support,Resolvido,Kaptha Lead,08/08/2025,19:33,43:33:00
+HelpDesk Support,Resolvido,Kaptha Lead,08/08/2025,19:38,31:24:00
+HelpDesk Support,Resolvido,Kaptha Lead,08/08/2025,07:30,31:30:00
+HelpDesk Support,Resolvido,Mais Alívio,08/08/2025,23:29,14:17
+HelpDesk Support,Resolvido,Kaptha Lead,07/08/2025,23:53,23:19
+HelpDesk Support,Resolvido,Kaptha Lead,06/08/2025,-25:06:00,-01:26:00
+HelpDesk Support,Resolvido,Sintesc,06/08/2025,00:15,-38:31:00
+HelpDesk Support,Resolvido,Mais Alívio,05/08/2025,23:48,08:48
+HelpDesk Support,Resolvido,Kaptha Lead,05/08/2025,23:45,39:47:00
+HelpDesk Support,Resolvido,Sintesc,05/08/2025,00:14,22:05
+HelpDesk Support,Resolvido,Dr. de Todos,04/08/2025,22:01,-119:48:00
+HelpDesk Support,Resolvido,Kaptha Lead,04/08/2025,23:40,-03:13:00
+HelpDesk Support,Resolvido,Mais Alívio,04/08/2025,00:08,-30:35:00
+HelpDesk Support,Resolvido,Kaptha Lead,01/08/2025,21:47,-07:12:00
+HelpDesk Support,Resolvido,Kaptha Lead,01/08/2025,21:49,-07:15:00
+HelpDesk Support,Resolvido,Jaguar Mining,01/08/2025,23:56,
+HelpDesk Support,Resolvido,Kaptha Lead,01/08/2025,23:53,23:41
+HelpDesk Support,Resolvido,Jaguar Mining,01/08/2025,23:34,
+HelpDesk Support,Resolvido,Claro - Antiquebra,31/07/2025,23:36,-25:31:00
+HelpDesk Support,Resolvido,EaseLabs,31/07/2025,-00:12:00,-188:45:00
+HelpDesk Support,Resolvido,Jaguar Mining,31/07/2025,22:46,
+HelpDesk Support,Resolvido,Jaguar Mining,30/07/2025,23:47,
+HelpDesk Support,Resolvido,Sintesc,22/07/2025,-00:30:00,16:00
+HelpDesk Support,Resolvido,Dr. de Todos,21/07/2025,-00:14:00,-03:37:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,08/07/2025,-00:38:00,20:50
+HelpDesk Support,Resolvido,EaseLabs,02/06/2025,-01:43:00,22:16
+HelpDesk Support,Resolvido,Jaguar Mining,02/06/2025,-22:10:00,
+HelpDesk Support,Resolvido,Jaguar Mining,30/05/2025,18:17,
+HelpDesk Support,Resolvido,Sintesc,28/05/2025,11:29,35:29:00
+HelpDesk Support,Resolvido,Jaguar Mining,27/05/2025,13:43,
+HelpDesk Support,Resolvido,EaseLabs,21/05/2025,11:45,35:45:00
+HelpDesk Support,Resolvido,Jaguar Mining,21/05/2025,-34:13:00,
+HelpDesk Support,Resolvido,Jaguar Mining,19/05/2025,06:58,
+HelpDesk Support,Resolvido,Sintesc,16/05/2025,-31:36:00,-07:36:00
+HelpDesk Support,Resolvido,Sintesc,16/05/2025,23:45,47:45:00
+HelpDesk Support,Resolvido,Jaguar Mining,13/05/2025,-27:18:00,
+HelpDesk Support,Resolvido,EaseLabs,13/05/2025,11:21,35:21:00
+HelpDesk Support,Resolvido,Jaguar Mining,12/05/2025,-36:03:00,
+HelpDesk Support,Resolvido,Claro - Antiquebra,08/05/2025,-57:20:00,-33:20:00
+HelpDesk Support,Resolvido,Sintesc,06/05/2025,05:29,29:29:00
+HelpDesk Support,Resolvido,EaseLabs,05/05/2025,-61:16:00,-37:36:00
+HelpDesk Support,Resolvido,Sintesc,03/05/2025,-02:34:00,21:25
+HelpDesk Support,Resolvido,EaseLabs,30/04/2025,-01:54:00,12:09
+HelpDesk Support,Resolvido,Jaguar Mining,29/04/2025,-40:46:00,
+HelpDesk Support,Resolvido,Sintesc,28/04/2025,20:39,44:39:00
+HelpDesk Support,Resolvido,Jaguar Mining,25/04/2025,21:14,
+HelpDesk Support,Resolvido,Jaguar Mining,25/04/2025,16:09,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,16/04/2025,-01:03:00,22:36
+HelpDesk Support,Resolvido,Jaguar Mining,15/04/2025,20:07,
+HelpDesk Support,Resolvido,Sintesc,10/04/2025,-00:19:00,23:20
+HelpDesk Support,Resolvido,Jaguar Mining,27/03/2025,18:20,
+HelpDesk Support,Resolvido,Jaguar Mining,25/03/2025,14:54,
+HelpDesk Support,Resolvido,EaseLabs,10/03/2025,01:26,25:26:00
+HelpDesk Support,Resolvido,Sintesc,08/03/2025,-55:40:00,-32:00:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,07/03/2025,00:18,23:58
+HelpDesk Support,Resolvido,Jaguar Mining,25/02/2025,05:41,
+HelpDesk Support,Resolvido,Jaguar Mining,20/02/2025,22:32,
+HelpDesk Support,Resolvido,Jaguar Mining,18/02/2025,-16:17:00,
+HelpDesk Support,Resolvido,Jaguar Mining,12/02/2025,-52:27:00,
+HelpDesk Support,Resolvido,EaseLabs,11/02/2025,-27:55:00,-04:15:00
+HelpDesk Support,Resolvido,Jaguar Mining,06/02/2025,19:07,
+HelpDesk Support,Resolvido,Jaguar Mining,06/02/2025,03:53,
+HelpDesk Support,Resolvido,Jaguar Mining,06/02/2025,16:00,
+HelpDesk Support,Resolvido,Sintesc,06/02/2025,-21:34:00,02:05
+HelpDesk Support,Resolvido,Jaguar Mining,30/01/2025,22:57,
+HelpDesk Support,Resolvido,EaseLabs,14/01/2025,-72:45:00,-49:05:00
+HelpDesk Support,Resolvido,Jaguar Mining,10/01/2025,24:00:00,
+HelpDesk Support,Resolvido,Jaguar Mining,08/01/2025,18:14,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/12/2024,-127:27:00,-103:47:00
+HelpDesk Support,Resolvido,Jaguar Mining,18/12/2024,-109:20:00,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/12/2024,-04:48:00,18:51
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/12/2024,-05:09:00,18:30
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/12/2024,-10:10:00,13:29
+HelpDesk Support,Resolvido,Jaguar Mining,11/12/2024,-145:36:00,
+HelpDesk Support,Resolvido,Jaguar Mining,10/12/2024,-151:13:00,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,09/12/2024,-15:21:00,08:38
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-00:55:00,22:44
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-03:44:00,19:55
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-04:25:00,19:14
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-00:33:00,23:06
+HelpDesk Support,Resolvido,Jaguar Mining,02/12/2024,23:58,
+HelpDesk Support,Resolvido,Jaguar Mining,28/11/2024,09:09,
+HelpDesk Support,Resolvido,Sintesc,27/11/2024,-37:45:00,-14:05:00
+HelpDesk Support,Resolvido,Sintesc,27/11/2024,-37:53:00,-14:13:00
+HelpDesk Support,Resolvido,Sintesc,27/11/2024,-37:59:00,-14:19:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,26/11/2024,-01:55:00,22:03
+HelpDesk Support,Resolvido,Jaguar Mining,14/11/2024,14:55,
+HelpDesk Support,Resolvido,Jaguar Mining,13/11/2024,20:52,
+HelpDesk Support,Resolvido,Sintesc,11/11/2024,-25:11:00,-25:31:00
+HelpDesk Support,Resolvido,Jaguar Mining,08/11/2024,22:37,
+HelpDesk Support,Resolvido,Jaguar Mining,07/11/2024,12:45,
+HelpDesk Support,Resolvido,Jaguar Mining,30/10/2024,08:09,
+HelpDesk Support,Resolvido,Jaguar Mining,28/10/2024,-04:32:00,
+HelpDesk Support,Resolvido,Jaguar Mining,28/10/2024,21:20,
+HelpDesk Support,Resolvido,Jaguar Mining,24/10/2024,20:37,
+HelpDesk Support,Resolvido,Jaguar Mining,24/10/2024,20:31,
+HelpDesk Support,Resolvido,Jaguar Mining,21/10/2024,22:35,
+HelpDesk Support,Resolvido,Jaguar Mining,18/10/2024,23:23,
+HelpDesk Support,Resolvido,Jaguar Mining,16/10/2024,23:48,
+HelpDesk Support,Resolvido,Jaguar Mining,07/10/2024,19:59,
+HelpDesk Support,Resolvido,Jaguar Mining,03/10/2024,24:00:00,
+HelpDesk Support,Resolvido,Jaguar Mining,02/10/2024,24:00:00,
+HelpDesk Support,Resolvido,Mais Alívio,01/10/2024,24:00:00,-40:00:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,30/09/2024,-00:50:00,17:19
+HelpDesk Support,Resolvido,Sintesc,30/09/2024,-00:30:00,-08:31:00
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:05:00,01:34
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:06:00,01:33
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:07:00,01:32
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:09:00,01:30
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:10:00,01:29
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:11:00,01:28
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:12:00,01:27
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:13:00,01:26
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:15:00,01:24
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:16:00,01:23
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:18:00,01:21
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:20:00,01:19
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:21:00,01:18
+HelpDesk Support,Resolvido,Sintesc,25/09/2024,-00:42:00,14:00
+HelpDesk Support,Resolvido,Sintesc,24/09/2024,00:11,16:31
+HelpDesk Support,Resolvido,Sintesc,17/09/2024,-02:21:00,05:18
+HelpDesk Support,Resolvido,Sintesc,16/09/2024,-19:27:00,-05:07:00
+HelpDesk Support,Resolvido,Jaguar Mining,12/09/2024,23:29,
+HelpDesk Support,Resolvido,Jaguar Mining,12/09/2024,23:10,
+HelpDesk Support,Resolvido,Jaguar Mining,12/09/2024,23:46,
+HelpDesk Support,Resolvido,Visione,11/09/2024,19:58,-154:20:00
+HelpDesk Support,Resolvido,Visione,11/09/2024,19:57,-154:23:00
+HelpDesk Support,Resolvido,Visione,11/09/2024,19:57,-154:24:00
+HelpDesk Support,Resolvido,Visione,11/09/2024,19:57,-154:29:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,10/09/2024,-00:43:00,22:56
+HelpDesk Support,Resolvido,Jaguar Mining,10/09/2024,17:18,
+HelpDesk Support,Resolvido,Jaguar Mining,09/09/2024,-09:24:00,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,06/09/2024,00:03,-175:33:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/09/2024,-00:23:00,-00:24:00
+HelpDesk Support,Resolvido,Jaguar Mining,05/09/2024,22:46,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,04/09/2024,-07:11:00,-12:59:00
+HelpDesk Support,Resolvido,Jaguar Mining,29/08/2024,23:50,
+HelpDesk Support,Resolvido,Jaguar Mining,29/08/2024,23:11,
+HelpDesk Support,Resolvido,Jaguar Mining,28/08/2024,22:59,
+HelpDesk Support,Resolvido,Pro Labore,28/08/2024,23:32,-36:48:00
+HelpDesk Support,Resolvido,Pro Labore,19/08/2024,22:23,43:33:00
+HelpDesk Support,Resolvido,Sintesc,12/08/2024,00:02,08:19
+HelpDesk Support,Resolvido,Pro Labore,06/08/2024,23:21,-57:08:00
+HelpDesk Support,Resolvido,Sintesc,05/08/2024,18:32,-38:47:00
+HelpDesk Support,Resolvido,Mais Alívio,24/07/2024,00:20,04:00
+HelpDesk Support,Resolvido,Sintesc,22/07/2024,-00:32:00,22:11
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,09/07/2024,23:30,14:54
+HelpDesk Support,Resolvido,Pro Labore,05/07/2024,22:09,
+HelpDesk Support,Resolvido,Sintesc,26/06/2024,21:52,37:47:00
+HelpDesk Support,Resolvido,Sintesc,20/06/2024,00:20,-177:08:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,20/06/2024,21:56,-63:57:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,22:38,14:54
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,13:11,-11:28:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,14:24,-11:41:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,-11:08:00,12:51
+HelpDesk Support,Resolvido,Sintesc,10/06/2024,-05:56:00,07:12
+HelpDesk Support,Resolvido,Sintesc,23/05/2024,23:16,38:41:00
+HelpDesk Support,Resolvido,Sintesc,17/05/2024,23:51,26:41:00
+HelpDesk Support,Resolvido,Sintesc,15/05/2024,22:26,-04:54:00
+HelpDesk Support,Resolvido,Sintesc,09/05/2024,-03:05:00,00:45
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,02/05/2024,-04:11:00,19:28
+HelpDesk Support,Resolvido,Sintesc,25/04/2024,23:16,46:34:00
+HelpDesk Support,Resolvido,Sintesc,21/04/2024,24:00:00,-02:46:00
+HelpDesk Support,Resolvido,Pro Labore,09/04/2024,-00:05:00,-215:43:00
+HelpDesk Support,Resolvido,Sintesc,04/04/2024,-01:38:00,19:33
+HelpDesk Support,Resolvido,Sintesc,21/03/2024,21:15,43:39:00
+HelpDesk Support,Resolvido,Pro Labore,18/03/2024,22:39,40:00:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/03/2024,-18:56:00,-30:15:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/03/2024,-21:00:00,-31:37:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,08/03/2024,00:00,-189:10:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/02/2024,15:19,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/02/2024,15:17,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/02/2024,15:10,
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,16/02/2024,-164:34:00,-175:22:00
+HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,08/02/2024,-211:04:00,-387:51:00
+HelpDesk Support,Resolvido,Pro Labore,24/01/2024,-45:32:00,-29:32:00
+HelpDesk Support,Resolvido,B20,20/01/2024,-95:40:00,-72:00:00
+HelpDesk Support,Resolvido,Visione,10/01/2024,-246:22:00,-222:22:00
+HelpDesk Support,Resolvido,Sintesc,28/11/2023,-95:34:00,-79:34:00
+HelpDesk Support,Resolvido,Sintesc,02/11/2023,-24:00:00,-08:00:00
+HelpDesk Support,Resolvido,Pro Labore,01/11/2023,-15:58:00,00:01
+HelpDesk Support,Resolvido,PedeQueVem!,23/10/2023,-21:33:00,-584:36:00
+HelpDesk Support,Resolvido,Sintesc,18/10/2023,-03:53:00,12:06
+HelpDesk Support,Resolvido,PedeQueVem!,18/10/2023,-00:47:00,-608:33:00
+HelpDesk Support,Resolvido,Sintesc,17/10/2023,-05:52:00,10:07
+HelpDesk Support,Resolvido,Pro Labore,13/10/2023,06:17,22:17
+HelpDesk Support,Resolvido,Bulbe,11/10/2023,-22:35:00,-06:35:00
+HelpDesk Support,Resolvido,Pro Labore,09/10/2023,05:54,21:54
+HelpDesk Support,Resolvido,Bulbe,06/10/2023,-02:35:00,13:24
+HelpDesk Support,Resolvido,Bulbe,04/10/2023,-01:47:00,14:12
+HelpDesk Support,Resolvido,Bulbe,03/10/2023,06:15,22:15
+HelpDesk Support,Resolvido,Bulbe,28/09/2023,06:30,22:30
+HelpDesk Support,Resolvido,Bulbe,25/09/2023,-00:11:00,15:48
+HelpDesk Support,Resolvido,Bulbe,22/09/2023,06:34,22:34
+HelpDesk Support,Resolvido,Bulbe,20/09/2023,02:41,18:41
+HelpDesk Support,Resolvido,Pro Labore,19/09/2023,05:24,21:24
+HelpDesk Support,Resolvido,Bulbe,18/09/2023,07:13,23:13
+HelpDesk Support,Resolvido,Bulbe,13/09/2023,06:11,22:11
+HelpDesk Support,Resolvido,Bulbe,13/09/2023,05:25,21:25
+HelpDesk Support,Resolvido,Bulbe,13/09/2023,06:13,22:13
+HelpDesk Support,Resolvido,Bulbe,12/09/2023,05:33,21:33
+HelpDesk Support,Resolvido,Bulbe,12/09/2023,07:05,23:05
+HelpDesk Support,Resolvido,Bulbe,11/09/2023,-00:40:00,15:19
+HelpDesk Support,Resolvido,Bulbe,08/09/2023,07:05,23:05
+HelpDesk Support,Resolvido,Bulbe,05/09/2023,07:34,18:12
+HelpDesk Support,Resolvido,Bulbe,04/09/2023,07:28,15:28
+HelpDesk Support,Resolvido,Sintesc,28/08/2023,04:08,00:08
+HelpDesk Support,Resolvido,Sintesc,05/08/2023,06:35,22:35
+HelpDesk Support,Resolvido,Bulbe,27/07/2023,02:06,18:06
+HelpDesk Support,Resolvido,Sintesc,25/07/2023,05:31,21:31
+HelpDesk Support,Resolvido,Sintesc,21/07/2023,-02:11:00,13:48
+HelpDesk Support,Resolvido,Bulbe,13/07/2023,08:00,24:00:00
+HelpDesk Support,Resolvido,Bulbe,03/07/2023,06:42,22:42
+HelpDesk Support,Resolvido,Bulbe,16/06/2023,05:52,21:52
+HelpDesk Support,Resolvido,Bulbe,15/06/2023,08:00,24:00:00
+HelpDesk Support,Resolvido,Sintesc,14/06/2023,-02:43:00,13:16
+HelpDesk Support,Resolvido,Bulbe,09/05/2023,06:45,22:44
+HelpDesk Support,Resolvido,Bulbe,24/04/2023,05:22,21:22
+HelpDesk Support,Resolvido,Bulbe,04/04/2023,05:41,21:41
+HelpDesk Support,Resolvido,Bulbe,22/03/2023,07:38,23:38
+HelpDesk Support,Resolvido,Bulbe,28/02/2023,07:59,08:15
+Bug,Entregue,Claro - Hub de Aparelhos,24/09/2025,-00:30:00,21:17
+Bug,Entregue,Sintesc,23/09/2025,00:15,20:06
+Bug,Entregue,Sintesc,22/09/2025,00:17,02:35
+New Feature,Entregue,EaseLabs,18/09/2025,00:20,08:00
+Bug,Entregue,Sintesc,18/09/2025,00:17,21:26
+Bug,Entregue,Sintesc,17/09/2025,00:15,-20:43:00
+Bug,Entregue,Claro - Hub de Aparelhos,16/09/2025,00:17,19:11
+New Feature,Entregue,Sintesc,16/09/2025,00:18,-25:52:00
+Bug,Entregue,Sintesc,15/09/2025,-00:01:00,00:20
+Bug,Entregue,Sintesc,15/09/2025,00:15,-38:24:00
+Bug,Entregue,Sintesc,11/09/2025,-00:23:00,15:20
+New Feature,Entregue,Sintesc,10/09/2025,00:05,-15:10:00
 Bug,Entregue,Sintesc,09/09/2025,00:10,23:50
-Bug,Em progresso,Claro - Antiquebra,09/09/2025,-00:27:00,03:50
-Bug,Em progresso,Claro - Antiquebra,08/09/2025,-00:27:00,03:50
-Bug,Em progresso,Sintesc,08/09/2025,00:09,02:30
 New Feature,Entregue,Sintesc,08/09/2025,00:17,20:30
-New Feature,Pendente,Sintesc,08/09/2025,23:49,
 New Feature,Entregue,Jaguar Mining,08/09/2025,23:43,
-Bug,Pendente,Sintesc,08/09/2025,00:05,-03:38:00
-Bug,Em progresso,Sintesc,08/09/2025,-27:49:00,-04:09:00
-New Feature,Pendente,Claro - Antiquebra,08/09/2025,22:50,19:50
-New Feature,Pendente,Claro - Antiquebra,07/09/2025,22:54,
-New Feature,Pendente,Claro - Antiquebra,07/09/2025,22:55,
-New Feature,Pendente,Claro - Antiquebra,07/09/2025,22:56,
-New Feature,Pendente,Claro - Antiquebra,07/09/2025,22:58,19:50
-Bug,Em progresso,Claro - Antiquebra,06/09/2025,-00:23:00,-04:09:00
-Bug,Em progresso,Claro - Antiquebra,06/09/2025,-00:21:00,-04:09:00
-Bug,Em progresso,Claro - Antiquebra,06/09/2025,-00:19:00,-04:09:00
-New Feature,Pendente,Claro - Antiquebra,06/09/2025,23:00,
+Bug,Entregue,Sintesc,08/09/2025,-45:18:00,-21:38:00
 Bug,Entregue,Claro - Hub de Aparelhos,06/09/2025,24:00:00,
-New Feature,Pendente,EaseLabs,05/09/2025,23:07,
-New Feature,Pendente,EaseLabs,05/09/2025,23:08,
-New Feature,Pendente,EaseLabs,05/09/2025,23:10,
-Bug,Em progresso,Sintesc,05/09/2025,00:11,-11:26:00
-Bug,Pendente,Sintesc,05/09/2025,-00:23:00,-12:09:00
-New Feature,Pendente,Sintesc,04/09/2025,-00:22:00,-12:09:00
+Bug,Entregue,Sintesc,05/09/2025,00:11,-28:55:00
+Bug,Entregue,Sintesc,05/09/2025,-00:23:00,-35:21:00
 Bug,Entregue,Claro - Hub de Aparelhos,04/09/2025,-00:18:00,-01:41:00
 Bug,Entregue,Claro - Hub de Aparelhos,04/09/2025,-00:42:00,02:05
-Bug,Pendente,Sintesc,04/09/2025,00:04,-13:22:00
+Bug,Entregue,Sintesc,04/09/2025,00:04,-73:12:00
 Bug,Entregue,Claro - Hub de Aparelhos,04/09/2025,00:16,-03:11:00
-Bug,Em progresso,Claro - Antiquebra,03/09/2025,-00:28:00,-20:09:00
-Bug,Em progresso,Claro - Antiquebra,03/09/2025,-00:22:00,-20:09:00
-New Feature,Pendente,Claro - Hub de Aparelhos,03/09/2025,20:49,
-New Feature,Pendente,Claro - Hub de Aparelhos,03/09/2025,00:16,-22:53:00
-New Feature,Pendente,Claro - Hub de Aparelhos,03/09/2025,23:53,
 New Feature,Entregue,Sintesc,03/09/2025,-00:27:00,07:00
-New Feature,Pendente,Dr. de Todos,02/09/2025,22:44,
-New Feature,Pendente,Mais Alívio,02/09/2025,00:16,-33:09:00
 Bug,Entregue,Mais Alívio,02/09/2025,23:31,40:09:00
 Bug,Entregue,Mais Alívio,02/09/2025,-00:22:00,16:04
 New Feature,Entregue,Sintesc,02/09/2025,-02:36:00,21:03
@@ -48,55 +258,37 @@ New Feature,Entregue,Claro - Antiquebra,01/09/2025,23:48,-07:23:00
 Bug,Entregue,Claro - Antiquebra,01/09/2025,-00:53:00,-09:10:00
 Bug,Entregue,Claro - Antiquebra,01/09/2025,-00:48:00,04:10
 Bug,Entregue,Claro - Antiquebra,01/09/2025,-00:40:00,05:45
-HelpDesk Support,Fazendo,Sintesc,29/08/2025,00:07,-45:10:00
 Bug,Entregue,Claro - Hub de Aparelhos,29/08/2025,00:16,19:08
-Bug,Em progresso,Claro - Hub de Aparelhos,28/08/2025,-00:07:00,-53:48:00
-Bug,Em progresso,Sintesc,28/08/2025,21:07,
+Bug,Entregue,Sintesc,28/08/2025,21:07,
 New Feature,Entregue,Mais Alívio,28/08/2025,23:44,31:47:00
 Bug,Entregue,Mais Alívio,28/08/2025,-00:08:00,07:31
 Bug,Entregue,Claro - Hub de Aparelhos,27/08/2025,-00:10:00,-03:02:00
 Bug,Entregue,Claro - Hub de Aparelhos,26/08/2025,-17:07:00,00:03
 Bug,Entregue,Mais Alívio,26/08/2025,-00:35:00,-08:15:00
-New Feature,Em progresso,Mais Alívio,26/08/2025,23:34,
+New Feature,Entregue,Mais Alívio,26/08/2025,23:34,
 Bug,Entregue,Claro - Hub de Aparelhos,25/08/2025,-09:58:00,09:10
 Bug,Entregue,Mais Alívio,25/08/2025,-02:42:00,07:51
-New Feature,Em progresso,Solução em Focco,25/08/2025,-03:11:00,-81:43:00
-New Feature,Em progresso,Solução em Focco,25/08/2025,-03:10:00,-81:43:00
-Bug,Em progresso,Solução em Focco,25/08/2025,-03:05:00,-81:44:00
-New Feature,Em progresso,Solução em Focco,25/08/2025,-03:10:00,-81:46:00
-Bug,Em progresso,Solução em Focco,25/08/2025,-03:04:00,-81:47:00
-Bug,Em progresso,Solução em Focco,25/08/2025,-02:53:00,-81:48:00
-New Feature,Em progresso,Solução em Focco,25/08/2025,-02:51:00,-81:49:00
-Bug,Em progresso,Sintesc,22/08/2025,-00:30:00,-84:18:00
-New Feature,Pendente,Jaguar Mining,22/08/2025,21:13,
-HelpDesk Support,Resolvido,Jaguar Mining,22/08/2025,06:35,
-New Feature,Em progresso,Sintesc,22/08/2025,23:14,
+Bug,Entregue,Sintesc,22/08/2025,-00:30:00,-96:47:00
+New Feature,Entregue,Jaguar Mining,22/08/2025,21:13,
+New Feature,Entregue,Sintesc,22/08/2025,23:14,
 Bug,Entregue,Claro - Hub de Aparelhos,21/08/2025,23:17,
 Bug,Entregue,Claro - Hub de Aparelhos,21/08/2025,23:23,
 New Feature,Entregue,Jaguar Mining,21/08/2025,21:22,
 New Feature,Entregue,Jaguar Mining,21/08/2025,02:02,
 Bug,Entregue,Sintesc,21/08/2025,-04:08:00,-13:54:00
 New Feature,Entregue,EaseLabs,21/08/2025,-03:03:00,-38:19:00
-Bug,Em progresso,Solução em Focco,21/08/2025,-03:17:00,-98:02:00
-New Feature,Pendente,Solução em Focco,21/08/2025,-03:27:00,-98:14:00
-New Feature,Pendente,Solução em Focco,21/08/2025,-03:26:00,-98:15:00
-New Feature,Pendente,Solução em Focco,21/08/2025,-03:22:00,-98:16:00
-Bug,Em progresso,Solução em Focco,21/08/2025,-03:19:00,-98:16:00
 Bug,Entregue,Sintesc,21/08/2025,-00:30:00,-16:47:00
-Bug,Em progresso,Sintesc,21/08/2025,-00:28:00,-100:09:00
-Bug,Em progresso,Sintesc,21/08/2025,-00:25:00,-100:09:00
+Bug,Entregue,Sintesc,21/08/2025,-00:28:00,-117:34:00
+Bug,Entregue,Sintesc,21/08/2025,-00:25:00,-112:37:00
 Bug,Entregue,Sintesc,21/08/2025,-00:21:00,-16:46:00
 New Feature,Entregue,Jaguar Mining,20/08/2025,23:57,
-New Feature,Em progresso,Sintesc,20/08/2025,23:39,-78:00:00
-New Feature,Em progresso,Sintesc,20/08/2025,23:27,
-Bug,Em progresso,Sintesc,20/08/2025,-00:17:00,-103:09:00
-New Feature,Pendente,Sintesc,19/08/2025,-00:57:00,-114:22:00
-New Feature,Em progresso,Claro - Hub de Aparelhos,18/08/2025,22:22,
+New Feature,Entregue,Sintesc,20/08/2025,23:39,-95:25:00
+New Feature,Entregue,Sintesc,20/08/2025,23:27,
+Bug,Entregue,Sintesc,20/08/2025,-00:17:00,-115:37:00
 Bug,Entregue,Claro - Hub de Aparelhos,18/08/2025,-01:50:00,-46:15:00
-New Feature,Em progresso,Sintesc,18/08/2025,-02:46:00,-121:29:00
+New Feature,Entregue,Sintesc,18/08/2025,-02:46:00,-138:53:00
 Bug,Entregue,Mais Alívio,18/08/2025,-02:42:00,11:00
 Bug,Entregue,Mais Alívio,14/08/2025,00:18,-02:31:00
-New Feature,Pendente,Claro - Antiquebra,13/08/2025,22:48,
 New Feature,Entregue,Claro - Hub de Aparelhos,13/08/2025,20:48,
 Bug,Entregue,Mais Alívio,13/08/2025,-03:05:00,-14:29:00
 Bug,Entregue,EaseLabs,13/08/2025,-03:00:00,-86:36:00
@@ -106,69 +298,36 @@ Bug,Entregue,Claro - Hub de Aparelhos,12/08/2025,00:02,22:48
 New Feature,Entregue,EaseLabs,12/08/2025,23:31,
 Bug,Entregue,Claro - Antiquebra,12/08/2025,-00:56:00,-56:02:00
 Bug,Entregue,Mais Alívio,12/08/2025,00:06,-22:41:00
-HelpDesk Support,Resolvido,Kaptha Lead,11/08/2025,23:07,39:42:00
-HelpDesk Support,Resolvido,Kaptha Lead,11/08/2025,20:54,44:54:00
 Bug,Entregue,Claro - Antiquebra,09/08/2025,-01:04:00,22:34
 Bug,Entregue,Claro - Antiquebra,08/08/2025,-02:21:00,-28:53:00
 Bug,Entregue,Mais Alívio,08/08/2025,-16:27:00,07:11
 Bug,Entregue,Mais Alívio,08/08/2025,-02:05:00,-58:38:00
 New Feature,Entregue,Claro - Antiquebra,08/08/2025,20:26,
-HelpDesk Support,Resolvido,Claro - Antiquebra,08/08/2025,19:54,-80:54:00
-HelpDesk Support,Resolvido,Kaptha Lead,08/08/2025,19:33,43:33:00
-HelpDesk Support,Resolvido,Kaptha Lead,08/08/2025,19:38,31:24:00
-HelpDesk Support,Resolvido,Kaptha Lead,08/08/2025,07:30,31:30:00
-Bug,Em progresso,Mais Alívio,08/08/2025,00:06,-167:21:00
-HelpDesk Support,Resolvido,Mais Alívio,08/08/2025,23:29,14:17
 Bug,Entregue,Solução em Focco,08/08/2025,-01:01:00,-161:12:00
 Bug,Entregue,Solução em Focco,08/08/2025,-00:59:00,-161:13:00
 Bug,Entregue,Solução em Focco,07/08/2025,-02:33:00,-162:51:00
 Bug,Entregue,Solução em Focco,07/08/2025,-02:10:00,-163:03:00
-HelpDesk Support,Resolvido,Kaptha Lead,07/08/2025,23:53,23:19
 Bug,Entregue,Sintesc,07/08/2025,00:16,-00:19:00
 Bug,Entregue,Claro - Hub de Aparelhos,06/08/2025,-00:25:00,-117:58:00
 New Feature,Entregue,EaseLabs,06/08/2025,22:25,
-HelpDesk Support,Resolvido,Kaptha Lead,06/08/2025,-25:06:00,-01:26:00
-HelpDesk Support,Resolvido,Sintesc,06/08/2025,00:15,-38:31:00
-HelpDesk Support,Resolvido,Mais Alívio,05/08/2025,23:48,08:48
-HelpDesk Support,Resolvido,Kaptha Lead,05/08/2025,23:45,39:47:00
 Bug,Entregue,Mais Alívio,05/08/2025,00:17,23:19
-New Feature,Em progresso,Jaguar Mining,05/08/2025,23:30,
-HelpDesk Support,Resolvido,Sintesc,05/08/2025,00:14,22:05
-New Feature,Pendente,Sintesc,05/08/2025,22:21,
-HelpDesk Support,Resolvido,Dr. de Todos,04/08/2025,22:01,-119:48:00
-HelpDesk Support,Resolvido,Kaptha Lead,04/08/2025,23:40,-03:13:00
-HelpDesk Support,Resolvido,Mais Alívio,04/08/2025,00:08,-30:35:00
-New Feature,Em progresso,Sintesc,01/08/2025,-00:50:00,-204:51:00
-HelpDesk Support,Resolvido,Kaptha Lead,01/08/2025,21:47,-07:12:00
-HelpDesk Support,Resolvido,Kaptha Lead,01/08/2025,21:49,-07:15:00
-HelpDesk Support,Resolvido,Jaguar Mining,01/08/2025,23:56,
-HelpDesk Support,Resolvido,Kaptha Lead,01/08/2025,23:53,23:41
-Bug,Em progresso,Claro - Antiquebra,01/08/2025,00:03,-228:05:00
+New Feature,Entregue,Jaguar Mining,05/08/2025,23:30,
+New Feature,Entregue,Sintesc,01/08/2025,-00:50:00,-217:20:00
 New Feature,Entregue,Sintesc,01/08/2025,22:41,
 Bug,Entregue,Claro - Antiquebra,01/08/2025,00:09,-218:49:00
 Bug,Entregue,Claro - Hub de Aparelhos,01/08/2025,-00:41:00,-19:52:00
-HelpDesk Support,Resolvido,Jaguar Mining,01/08/2025,23:34,
-HelpDesk Support,Fazendo,Claro - Antiquebra,31/07/2025,23:39,-188:09:00
-HelpDesk Support,Resolvido,Claro - Antiquebra,31/07/2025,23:36,-25:31:00
 Bug,Entregue,Claro - Antiquebra,31/07/2025,-00:29:00,-52:18:00
-HelpDesk Support,Resolvido,EaseLabs,31/07/2025,-00:12:00,-188:45:00
 Bug,Entregue,Sintesc,31/07/2025,00:15,22:30
 Bug,Entregue,Claro - Antiquebra,31/07/2025,-00:30:00,-57:37:00
-HelpDesk Support,Resolvido,Jaguar Mining,31/07/2025,22:46,
 New Feature,Entregue,Claro - Hub de Aparelhos,31/07/2025,22:23,
-HelpDesk Support,Pendente,EaseLabs,30/07/2025,-220:09:00,-196:09:00
 New Feature,Entregue,Claro - Hub de Aparelhos,30/07/2025,-04:27:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,30/07/2025,23:28,
 Bug,Entregue,Claro - Hub de Aparelhos,30/07/2025,00:14,03:03
 Bug,Entregue,Mais Alívio,30/07/2025,-00:21:00,-110:07:00
-HelpDesk Support,Resolvido,Jaguar Mining,30/07/2025,23:47,
 Bug,Entregue,Claro - Hub de Aparelhos,29/07/2025,-06:09:00,17:30
 Bug,Entregue,Mais Alívio,29/07/2025,22:41,-115:07:00
 Bug,Entregue,Orgafarma,29/07/2025,-15:08:00,08:31
 New Feature,Entregue,Mais Alívio,29/07/2025,00:16,
-New Feature,Pendente,Sintesc,29/07/2025,23:52,
-Bug,Em progresso,Claro - Antiquebra,29/07/2025,00:07,-255:29:00
-New Feature,Em progresso,Claro - Hub de Aparelhos,28/07/2025,23:39,
 Bug,Entregue,Mais Alívio,28/07/2025,-46:24:00,-38:44:00
 Bug,Entregue,Claro - Hub de Aparelhos,28/07/2025,-00:07:00,20:48
 Bug,Entregue,Claro - Hub de Aparelhos,28/07/2025,22:03,
@@ -181,23 +340,15 @@ New Feature,Entregue,Mais Alívio,24/07/2025,00:02,-102:46:00
 New Feature,Entregue,Claro - Antiquebra,23/07/2025,-199:35:00,
 Bug,Entregue,Claro - Hub de Aparelhos,23/07/2025,19:11,
 Bug,Entregue,Mais Alívio,22/07/2025,-01:39:00,-15:19:00
-HelpDesk Support,Pendente,Mais Alívio,22/07/2025,21:32,-246:12:00
-New Feature,Em progresso,Mais Alívio,22/07/2025,21:36,
 Bug,Entregue,Mais Alívio,22/07/2025,00:14,20:41
-HelpDesk Support,Resolvido,Sintesc,22/07/2025,-00:30:00,16:00
-HelpDesk Support,Cancelado,EaseLabs,21/07/2025,-00:45:00,08:00
-New Feature,Pendente,Claro - Hub de Aparelhos,21/07/2025,23:50,
 New Feature,Entregue,Claro - Hub de Aparelhos,21/07/2025,23:32,
-New Feature,Pendente,Mais Alívio,21/07/2025,21:57,
 Bug,Entregue,Mais Alívio,21/07/2025,-01:30:00,16:22
 Bug,Entregue,Claro - Hub de Aparelhos,21/07/2025,22:23,
-HelpDesk Support,Resolvido,Dr. de Todos,21/07/2025,-00:14:00,-03:37:00
 New Feature,Entregue,EaseLabs,21/07/2025,20:32,
 Bug,Entregue,Sintesc,18/07/2025,-02:18:00,00:00
 Bug,Entregue,Claro - Hub de Aparelhos,18/07/2025,11:36,
 Bug,Entregue,Claro - Hub de Aparelhos,18/07/2025,-02:05:00,11:19
 Bug,Entregue,Dr. de Todos,18/07/2025,-03:31:00,20:08
-New Feature,Reaberto,Claro - Hub de Aparelhos,18/07/2025,16:00,
 Bug,Entregue,Sintesc,17/07/2025,-07:44:00,15:55
 New Feature,Entregue,EaseLabs,16/07/2025,-56:53:00,-32:53:00
 Bug,Entregue,Mais Alívio,16/07/2025,-74:21:00,-50:41:00
@@ -211,9 +362,8 @@ Bug,Entregue,Claro - Antiquebra,15/07/2025,-41:52:00,-18:12:00
 Bug,Entregue,Sintesc,14/07/2025,-41:36:00,-17:58:00
 New Feature,Entregue,EaseLabs,14/07/2025,-97:38:00,-73:58:00
 Bug,Entregue,Claro - Hub de Aparelhos,14/07/2025,-04:36:00,16:20
-New Feature,Pendente,Sintesc,14/07/2025,-321:20:00,
+New Feature,Entregue,Sintesc,14/07/2025,-337:20:00,
 Bug,Entregue,Sintesc,14/07/2025,-02:57:00,20:42
-New Feature,Pendente,Sintesc,11/07/2025,-325:10:00,
 Bug,Entregue,EaseLabs,11/07/2025,-29:04:00,-05:24:00
 Bug,Entregue,Sintesc,11/07/2025,-14:31:00,09:08
 Bug,Entregue,Claro - Hub de Aparelhos,10/07/2025,-01:59:00,21:40
@@ -221,49 +371,27 @@ Bug,Entregue,Mais Alívio,10/07/2025,-199:45:00,-192:05:00
 Bug,Entregue,Claro - Antiquebra,10/07/2025,-71:40:00,-48:00:00
 Bug,Entregue,EaseLabs,09/07/2025,-43:02:00,-19:22:00
 Bug,Entregue,Claro - Antiquebra,09/07/2025,-73:15:00,-49:35:00
-New Feature,Pendente,Claro - Manifestos RMG,09/07/2025,-342:30:00,
-New Feature,Pendente,Claro - Manifestos RMG,09/07/2025,-342:32:00,
 New Feature,Entregue,EaseLabs,09/07/2025,-47:12:00,-23:32:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,08/07/2025,-00:38:00,20:50
 Bug,Entregue,Mais Alívio,08/07/2025,-04:48:00,18:51
 Bug,Entregue,Mais Alívio,08/07/2025,-213:46:00,-206:06:00
 Bug,Entregue,Mais Alívio,08/07/2025,-04:51:00,18:48
-New Feature,Em progresso,Mais Alívio,08/07/2025,-354:03:00,
-New Feature,Em progresso,Mais Alívio,08/07/2025,-354:31:00,
 New Feature,Entregue,Mais Alívio,08/07/2025,-60:08:00,
 New Feature,Entregue,EaseLabs,08/07/2025,-134:37:00,-110:58:00
 Bug,Entregue,Claro - Antiquebra,08/07/2025,-96:31:00,-72:51:00
 Bug,Entregue,Claro - Antiquebra,08/07/2025,-88:08:00,-64:35:00
 Bug,Entregue,Sintesc,08/07/2025,-06:22:00,17:17
 New Feature,Entregue,Claro - Hub de Aparelhos,07/07/2025,-39:00:00,
-New Feature,Pendente,Claro - Antiquebra,05/07/2025,-364:09:00,
-New Feature,Pendente,Claro - Antiquebra,04/07/2025,-364:09:00,
-New Feature,Pendente,Claro - Antiquebra,04/07/2025,-364:09:00,
-New Feature,Pendente,Claro - Antiquebra,04/07/2025,-364:09:00,
-New Feature,Pendente,Claro - Antiquebra,04/07/2025,-364:09:00,
-New Feature,Em progresso,Claro - Hub de Aparelhos,04/07/2025,-364:09:00,
-New Feature,Pendente,Claro - Antiquebra,04/07/2025,-364:09:00,
-New Feature,Pendente,Claro - Antiquebra,04/07/2025,-364:09:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,04/07/2025,-16:09:00,07:49
 Bug,Entregue,Mais Alívio,04/07/2025,-15:47:00,07:52
-New Feature,Pendente,Sintesc,04/07/2025,-366:45:00,-342:45:00
-Bug,Pendente,Sintesc,04/07/2025,-366:50:00,-342:50:00
+New Feature,Entregue,Sintesc,04/07/2025,-426:35:00,-402:35:00
+Bug,Entregue,Sintesc,04/07/2025,-426:40:00,-402:40:00
 Bug,Entregue,Claro - Hub de Aparelhos,04/07/2025,19:46,
 Bug,Entregue,Mais Alívio,04/07/2025,-06:21:00,17:18
-New Feature,Em progresso,Claro - Antiquebra,03/07/2025,-372:09:00,
+New Feature,Entregue,Claro - Antiquebra,03/07/2025,-406:38:00,
 New Feature,Entregue,Claro - Manifestos RMG,03/07/2025,-10:31:00,
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-372:31:00,
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-373:10:00,
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-373:15:00,
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-373:20:00,-349:20:00
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-373:23:00,
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-373:26:00,
 New Feature,Entregue,Claro - Manifestos RMG,03/07/2025,-11:31:00,
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-373:29:00,
-New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-373:30:00,
 New Feature,Entregue,Sintesc,03/07/2025,20:37,44:37:00
 New Feature,Entregue,Claro - Antiquebra,03/07/2025,-96:51:00,
-New Feature,Pendente,Mais Alívio,02/07/2025,-381:30:00,
 Bug,Entregue,Mais Alívio,02/07/2025,-31:13:00,-07:33:00
 New Feature,Entregue,Claro - Hub de Aparelhos,02/07/2025,-241:37:00,
 Bug,Entregue,Claro - Antiquebra,02/07/2025,-80:55:00,-57:15:00
@@ -275,15 +403,11 @@ Bug,Entregue,Claro - Hub de Aparelhos,01/07/2025,-10:19:00,-31:38:00
 Bug,Entregue,Sintesc,01/07/2025,-01:52:00,21:47
 Bug,Entregue,Claro - Hub de Aparelhos,01/07/2025,19:10,
 Bug,Entregue,Claro - Hub de Aparelhos,01/07/2025,19:10,
-New Feature,Em progresso,Mais Alívio,01/07/2025,-394:17:00,
-New Feature,Em progresso,Mais Alívio,30/06/2025,-400:47:00,
+New Feature,Entregue,Mais Alívio,01/07/2025,-422:08:00,
 New Feature,Entregue,Mais Alívio,30/06/2025,-10:36:00,13:03
 Bug,Entregue,Sintesc,30/06/2025,-48:44:00,-105:46:00
 New Feature,Entregue,Claro - Antiquebra,29/06/2025,-120:53:00,-96:53:00
-New Feature,Pendente,Claro - Antiquebra,29/06/2025,-404:09:00,-380:09:00
-New Feature,Em progresso,Claro - Antiquebra,28/06/2025,-404:09:00,
 New Feature,Entregue,Claro - Antiquebra,28/06/2025,13:48,37:48:00
-New Feature,Pendente,Claro - Antiquebra,28/06/2025,-404:09:00,-380:09:00
 Bug,Entregue,Claro - Antiquebra,28/06/2025,22:57,
 Bug,Entregue,Claro - Antiquebra,28/06/2025,24:00:00,
 Bug,Entregue,Claro - Antiquebra,27/06/2025,-71:40:00,-48:00:00
@@ -295,37 +419,27 @@ New Feature,Entregue,EaseLabs,27/06/2025,-82:33:00,-58:33:00
 New Feature,Entregue,Claro - Hub de Aparelhos,27/06/2025,-23:54:00,-17:52:00
 Bug,Entregue,Claro - Antiquebra,26/06/2025,21:55,
 New Feature,Entregue,Claro - Hub de Aparelhos,26/06/2025,-199:48:00,
-Bug,Pendente,Visione,25/06/2025,-448:35:00,-424:55:00
-New Feature,Em progresso,Mais Alívio,24/06/2025,-429:00:00,
 Bug,Entregue,Mais Alívio,24/06/2025,-37:53:00,-14:13:00
-Bug,Pendente,Sintesc,24/06/2025,-453:05:00,-429:25:00
+Bug,Entregue,Sintesc,24/06/2025,-504:56:00,-489:16:00
 Bug,Entregue,Claro - Hub de Aparelhos,24/06/2025,-103:31:00,-79:51:00
 New Feature,Entregue,Claro - Antiquebra,24/06/2025,-184:12:00,-160:12:00
 Bug,Entregue,Sintesc,24/06/2025,-05:09:00,18:30
 New Feature,Entregue,Claro - Antiquebra,24/06/2025,-188:47:00,-164:47:00
-New Feature,Em progresso,Claro - Antiquebra,24/06/2025,-435:17:00,-411:17:00
 New Feature,Entregue,Claro - Antiquebra,23/06/2025,-153:39:00,-129:39:00
 Bug,Entregue,Claro - Antiquebra,23/06/2025,07:07,31:07:00
 New Feature,Entregue,Claro - Antiquebra,23/06/2025,-74:14:00,
 Bug,Entregue,Mais Alívio,23/06/2025,-87:34:00,-63:54:00
-New Feature,Pendente,Sintesc,23/06/2025,-438:34:00,
 Bug,Entregue,Mais Alívio,23/06/2025,-47:20:00,-23:40:00
 New Feature,Entregue,Sintesc,23/06/2025,-292:41:00,
 New Feature,Entregue,Jaguar Mining,23/06/2025,-85:49:00,
 Bug,Entregue,Claro - Antiquebra,23/06/2025,-23:40:00,00:00
-New Feature,Pendente,Sintesc,20/06/2025,-444:44:00,
 New Feature,Entregue,Sintesc,20/06/2025,-89:08:00,
-New Feature,Pendente,Sintesc,20/06/2025,-445:55:00,
-New Feature,Pendente,Sintesc,20/06/2025,-446:39:00,
-New Feature,Em progresso,Mais Alívio,20/06/2025,-447:43:00,
-New Feature,Em progresso,Mais Alívio,20/06/2025,-447:44:00,
 Bug,Entregue,Sintesc,20/06/2025,-03:14:00,20:22
 Bug,Entregue,Claro - Antiquebra,20/06/2025,-202:45:00,
 New Feature,Entregue,EaseLabs,20/06/2025,-240:05:00,
 New Feature,Entregue,Sintesc,20/06/2025,-153:18:00,
 Bug,Entregue,Mais Alívio,18/06/2025,-193:42:00,-170:02:00
 Bug,Entregue,Sintesc,18/06/2025,-10:17:00,-50:37:00
-New Feature,Em progresso,Mais Alívio,18/06/2025,-466:45:00,
 Bug,Entregue,Sintesc,17/06/2025,00:20,24:00:00
 Bug,Entregue,Claro - Hub de Aparelhos,17/06/2025,-05:40:00,-112:11:00
 New Feature,Entregue,Mais Alívio,17/06/2025,-176:07:00,-152:07:00
@@ -342,7 +456,7 @@ Bug,Entregue,Claro - Antiquebra,13/06/2025,23:55,
 Bug,Entregue,Claro - Antiquebra,13/06/2025,-67:44:00,-44:04:00
 New Feature,Entregue,Jaguar Mining,12/06/2025,-54:07:00,
 Bug,Entregue,Claro - Hub de Aparelhos,12/06/2025,-00:52:00,14:01
-New Feature,Em progresso,Mais Alívio,12/06/2025,-493:24:00,
+New Feature,Entregue,Mais Alívio,12/06/2025,-514:36:00,
 Bug,Entregue,Mais Alívio,12/06/2025,-142:29:00,-118:49:00
 Bug,Entregue,Claro - Hub de Aparelhos,12/06/2025,-164:24:00,-140:44:00
 New Feature,Entregue,EaseLabs,12/06/2025,-177:12:00,
@@ -353,7 +467,7 @@ Bug,Entregue,Claro - Hub de Aparelhos,10/06/2025,-152:48:00,
 Bug,Entregue,Claro - Hub de Aparelhos,10/06/2025,14:45,
 Bug,Entregue,Claro - Antiquebra,10/06/2025,23:02,
 Bug,Entregue,Claro - Antiquebra,09/06/2025,23:43,
-New Feature,Pendente,Sintesc,09/06/2025,-516:39:00,
+New Feature,Entregue,Sintesc,09/06/2025,-532:24:00,
 New Feature,Entregue,Sintesc,09/06/2025,-17:22:00,
 Bug,Entregue,Claro - Antiquebra,09/06/2025,-15:03:00,-11:23:00
 Bug,Entregue,Claro - Hub de Aparelhos,06/06/2025,22:06,
@@ -365,21 +479,14 @@ Bug,Entregue,Sintesc,04/06/2025,-28:00:00,-04:20:00
 Bug,Entregue,Claro - Hub de Aparelhos,04/06/2025,-60:38:00,-36:58:00
 Bug,Entregue,Claro - Hub de Aparelhos,04/06/2025,-60:55:00,-37:15:00
 Bug,Entregue,Claro - Hub de Aparelhos,04/06/2025,-61:25:00,-37:45:00
-New Feature,Em progresso,Mais Alívio,03/06/2025,-550:17:00,
-New Feature,Em progresso,Mais Alívio,03/06/2025,-576:45:00,-569:05:00
 New Feature,Entregue,Mais Alívio,03/06/2025,-413:36:00,
 Bug,Entregue,Solução em Focco,03/06/2025,-163:20:00,-159:40:00
 Bug,Entregue,Claro - Hub de Aparelhos,02/06/2025,-00:18:00,-13:29:00
-HelpDesk Support,Resolvido,EaseLabs,02/06/2025,-01:43:00,22:16
-New Feature,Pendente,Jaguar Mining,02/06/2025,-562:44:00,
 Bug,Entregue,Claro - Antiquebra,02/06/2025,21:34,
-HelpDesk Support,Resolvido,Jaguar Mining,02/06/2025,-22:10:00,
 New Feature,Entregue,Jaguar Mining,02/06/2025,-91:13:00,
 Bug,Entregue,Sintesc,02/06/2025,-46:18:00,-22:38:00
 Bug,Entregue,Claro - Hub de Aparelhos,31/05/2025,10:22,
 Bug,Entregue,Claro - Hub de Aparelhos,30/05/2025,-00:11:00,03:28
-HelpDesk Support,Resolvido,Jaguar Mining,30/05/2025,18:17,
-Bug,Em progresso,Solução em Focco,30/05/2025,-593:29:00,-569:49:00
 Bug,Entregue,Solução em Focco,30/05/2025,-348:37:00,-324:57:00
 Bug,Entregue,Solução em Focco,30/05/2025,-348:42:00,-325:02:00
 New Feature,Entregue,Solução em Focco,30/05/2025,-154:30:00,
@@ -389,13 +496,7 @@ New Feature,Entregue,Solução em Focco,30/05/2025,-154:30:00,
 New Feature,Entregue,Solução em Focco,30/05/2025,-154:46:00,
 Bug,Entregue,Solução em Focco,30/05/2025,-178:15:00,-170:35:00
 Bug,Entregue,Solução em Focco,30/05/2025,-178:25:00,-170:45:00
-New Feature,Em progresso,Solução em Focco,30/05/2025,-570:23:00,
 Bug,Entregue,Claro - Hub de Aparelhos,30/05/2025,-05:54:00,-02:14:00
-Bug,Em progresso,Solução em Focco,30/05/2025,-594:10:00,-570:30:00
-Bug,Em progresso,Solução em Focco,30/05/2025,-594:14:00,-570:34:00
-Bug,Em progresso,Solução em Focco,30/05/2025,-594:15:00,-570:35:00
-Bug,Em progresso,Solução em Focco,30/05/2025,-594:16:00,-570:36:00
-Bug,Em progresso,Solução em Focco,30/05/2025,-594:23:00,-570:43:00
 Bug,Entregue,Claro - Antiquebra,29/05/2025,-110:25:00,-106:45:00
 New Feature,Entregue,Claro - Hub de Aparelhos,29/05/2025,-49:42:00,-46:02:00
 Bug,Entregue,Visione,29/05/2025,-16:52:00,-49:32:00
@@ -406,10 +507,8 @@ Bug,Entregue,Claro - Hub de Aparelhos,29/05/2025,-54:34:00,-50:54:00
 Bug,Entregue,Claro - Antiquebra,29/05/2025,23:51,
 Bug,Entregue,Claro - Hub de Aparelhos,28/05/2025,-12:28:00,11:11
 Bug,Entregue,Claro - Hub de Aparelhos,28/05/2025,-14:42:00,08:57
-HelpDesk Support,Resolvido,Sintesc,28/05/2025,11:29,35:29:00
 Bug,Entregue,Claro - Hub de Aparelhos,28/05/2025,-13:54:00,09:45
 Bug,Entregue,Claro - Antiquebra,28/05/2025,23:24,
-HelpDesk Support,Resolvido,Jaguar Mining,27/05/2025,13:43,
 Bug,Entregue,Claro - Hub de Aparelhos,27/05/2025,-17:45:00,05:54
 Bug,Entregue,Claro - Hub de Aparelhos,27/05/2025,00:16,23:56
 Bug,Entregue,Mais Alívio,27/05/2025,-79:54:00,-56:14:00
@@ -426,19 +525,13 @@ Bug,Entregue,Claro - Hub de Aparelhos,23/05/2025,10:38,
 Bug,Entregue,Claro - Hub de Aparelhos,23/05/2025,10:32,
 New Feature,Entregue,Claro - Antiquebra,22/05/2025,-168:00:00,
 New Feature,Entregue,Claro - Antiquebra,22/05/2025,-44:42:00,
-New Feature,Pendente,Dr. de Todos,22/05/2025,-614:50:00,
-New Feature,Pendente,Dr. de Todos,22/05/2025,-614:51:00,
-New Feature,Pendente,Dr. de Todos,22/05/2025,-614:51:00,
 New Feature,Entregue,Dr. de Todos,22/05/2025,-295:40:00,
 New Feature,Entregue,Dr. de Todos,22/05/2025,-524:01:00,
 Bug,Entregue,Claro - Hub de Aparelhos,22/05/2025,03:41,
 New Feature,Entregue,Mais Alívio,22/05/2025,-84:06:00,
 New Feature,Entregue,Sintesc,22/05/2025,-95:56:00,
-HelpDesk Support,Resolvido,EaseLabs,21/05/2025,11:45,35:45:00
-HelpDesk Support,Resolvido,Jaguar Mining,21/05/2025,-34:13:00,
 Bug,Entregue,Claro - Hub de Aparelhos,21/05/2025,-34:02:00,-10:22:00
 Bug,Entregue,Claro - Antiquebra,21/05/2025,-230:37:00,-292:33:00
-HelpDesk Support,Resolvido,Jaguar Mining,19/05/2025,06:58,
 Bug,Entregue,Mais Alívio,19/05/2025,-165:42:00,-158:02:00
 New Feature,Entregue,LocSystem,19/05/2025,-26:08:00,
 New Feature,Entregue,LocSystem,19/05/2025,-418:48:00,
@@ -453,7 +546,6 @@ Bug,Entregue,LocSystem,19/05/2025,-49:48:00,-26:08:00
 Bug,Entregue,Claro - Hub de Aparelhos,17/05/2025,21:28,
 Bug,Entregue,Claro - Hub de Aparelhos,17/05/2025,21:28,
 Bug,Entregue,Claro - Hub de Aparelhos,17/05/2025,21:28,
-HelpDesk Support,Resolvido,Sintesc,16/05/2025,-31:36:00,-07:36:00
 Bug,Entregue,Claro - Hub de Aparelhos,16/05/2025,-20:23:00,03:16
 Bug,Entregue,Claro - Hub de Aparelhos,16/05/2025,-65:56:00,-42:16:00
 Bug,Entregue,Claro - Hub de Aparelhos,16/05/2025,-20:26:00,03:13
@@ -461,14 +553,11 @@ Bug,Entregue,Claro - Hub de Aparelhos,16/05/2025,-22:24:00,01:15
 Bug,Entregue,Claro - Hub de Aparelhos,16/05/2025,-02:00:00,05:30
 Bug,Entregue,Claro - Hub de Aparelhos,16/05/2025,-20:31:00,03:08
 Bug,Entregue,Claro - Hub de Aparelhos,16/05/2025,-20:33:00,03:06
-HelpDesk Support,Resolvido,Sintesc,16/05/2025,23:45,47:45:00
 New Feature,Entregue,Claro - Antiquebra,15/05/2025,-590:07:00,
-New Feature,Pendente,Claro - Antiquebra,15/05/2025,-652:09:00,
 New Feature,Entregue,Claro - Antiquebra,15/05/2025,-98:15:00,
 New Feature,Entregue,Claro - Antiquebra,15/05/2025,-143:27:00,
 New Feature,Entregue,Claro - Antiquebra,15/05/2025,-99:11:00,
 New Feature,Entregue,Claro - Antiquebra,15/05/2025,-99:31:00,
-HelpDesk Support,Cancelado,Jaguar Mining,15/05/2025,23:39,
 New Feature,Entregue,Claro - Antiquebra,15/05/2025,-100:18:00,
 Bug,Entregue,Claro - Hub de Aparelhos,15/05/2025,-66:45:00,-43:05:00
 New Feature,Entregue,Claro - Antiquebra,14/05/2025,-106:03:00,
@@ -479,10 +568,8 @@ Bug,Entregue,Claro - Hub de Aparelhos,14/05/2025,-23:05:00,00:34
 Bug,Entregue,Claro - Hub de Aparelhos,13/05/2025,24:00:00,
 New Feature,Entregue,EaseLabs,13/05/2025,-17:15:00,
 Bug,Entregue,Claro - Hub de Aparelhos,13/05/2025,-43:54:00,-20:14:00
-HelpDesk Support,Resolvido,Jaguar Mining,13/05/2025,-27:18:00,
 Bug,Entregue,Claro - Hub de Aparelhos,13/05/2025,-79:31:00,-55:51:00
 Bug,Entregue,Claro - Hub de Aparelhos,13/05/2025,-45:11:00,-21:31:00
-HelpDesk Support,Resolvido,EaseLabs,13/05/2025,11:21,35:21:00
 Bug,Entregue,Claro - Hub de Aparelhos,12/05/2025,-79:40:00,-76:00:00
 Bug,Entregue,Claro - Hub de Aparelhos,12/05/2025,-84:28:00,-80:48:00
 Bug,Entregue,Claro - Hub de Aparelhos,12/05/2025,-50:05:00,-46:25:00
@@ -491,7 +578,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,12/05/2025,-07:26:00,-100:54:00
 Bug,Entregue,Claro - Hub de Aparelhos,12/05/2025,-84:28:00,-80:48:00
 Bug,Entregue,Claro - Hub de Aparelhos,12/05/2025,-84:29:00,-80:49:00
 New Feature,Entregue,Claro - Antiquebra,12/05/2025,-34:41:00,
-HelpDesk Support,Resolvido,Jaguar Mining,12/05/2025,-36:03:00,
 Bug,Entregue,Mais Alívio,12/05/2025,-172:40:00,-165:00:00
 New Feature,Entregue,EaseLabs,09/05/2025,-33:13:00,
 Bug,Entregue,Sintesc,09/05/2025,-01:27:00,22:12
@@ -507,7 +593,6 @@ New Feature,Entregue,EaseLabs,08/05/2025,-552:00:00,
 New Feature,Entregue,Jaguar Mining,08/05/2025,-49:06:00,
 New Feature,Entregue,Claro - Antiquebra,08/05/2025,-54:44:00,
 New Feature,Entregue,Sintesc,08/05/2025,-547:34:00,
-HelpDesk Support,Resolvido,Claro - Antiquebra,08/05/2025,-57:20:00,-33:20:00
 Bug,Entregue,Jaguar Mining,08/05/2025,-285:07:00,-261:27:00
 New Feature,Entregue,EaseLabs,07/05/2025,-49:13:00,
 Bug,Entregue,Sintesc,07/05/2025,-24:27:00,-27:18:00
@@ -518,14 +603,11 @@ Bug,Entregue,Claro - Hub de Aparelhos,06/05/2025,-49:44:00,
 Bug,Entregue,Claro - Hub de Aparelhos,06/05/2025,-63:45:00,
 Bug,Entregue,Claro - Hub de Aparelhos,06/05/2025,-64:58:00,
 Bug,Entregue,Claro - Antiquebra,06/05/2025,16:37,
-HelpDesk Support,Resolvido,Sintesc,06/05/2025,05:29,29:29:00
 Bug,Entregue,Claro - Hub de Aparelhos,05/05/2025,24:00:00,
 Bug,Entregue,Claro - Hub de Aparelhos,05/05/2025,-126:27:00,-122:47:00
 Bug,Entregue,Claro - Hub de Aparelhos,05/05/2025,-92:06:00,-88:26:00
-HelpDesk Support,Resolvido,EaseLabs,05/05/2025,-61:16:00,-37:36:00
 Bug,Entregue,Claro - Hub de Aparelhos,05/05/2025,-61:29:00,
 New Feature,Entregue,Sintesc,03/05/2025,-525:05:00,
-HelpDesk Support,Resolvido,Sintesc,03/05/2025,-02:34:00,21:25
 New Feature,Entregue,EaseLabs,02/05/2025,-40:00:00,
 Bug,Entregue,Sintesc,02/05/2025,-28:39:00,-24:59:00
 New Feature,Entregue,HiCare,02/05/2025,-30:41:00,
@@ -534,11 +616,9 @@ New Feature,Entregue,HiCare,02/05/2025,-30:59:00,
 New Feature,Entregue,HiCare,02/05/2025,-31:00:00,
 Bug,Entregue,HiCare,02/05/2025,-54:40:00,-31:00:00
 Bug,Entregue,HiCare,02/05/2025,-54:44:00,-31:04:00
-HelpDesk Support,Resolvido,EaseLabs,30/04/2025,-01:54:00,12:09
 New Feature,Entregue,Claro - Antiquebra,30/04/2025,-498:14:00,
 New Feature,Entregue,Claro - Antiquebra,30/04/2025,03:10,
 New Feature,Entregue,Claro - Antiquebra,30/04/2025,-20:06:00,
-HelpDesk Support,Resolvido,Jaguar Mining,29/04/2025,-40:46:00,
 New Feature,Entregue,Jaguar Mining,29/04/2025,-315:06:00,
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,00:06,23:46
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-00:01:00,23:38
@@ -550,7 +630,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-00:50:00,22:49
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-00:54:00,22:45
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-194:32:00,-190:52:00
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-01:04:00,22:35
-HelpDesk Support,Resolvido,Sintesc,28/04/2025,20:39,44:39:00
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-03:10:00,20:29
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-03:32:00,20:07
 Bug,Entregue,Claro - Hub de Aparelhos,28/04/2025,-03:40:00,19:59
@@ -561,15 +640,11 @@ Bug,Entregue,Claro - Antiquebra,28/04/2025,-368:51:00,-365:11:00
 New Feature,Entregue,Claro - Antiquebra,27/04/2025,-122:05:00,
 New Feature,Entregue,Claro - Antiquebra,27/04/2025,-122:05:00,
 New Feature,Entregue,Claro - Antiquebra,26/04/2025,-122:01:00,
-New Feature,Pendente,Claro - Antiquebra,26/04/2025,-764:09:00,
 New Feature,Entregue,EaseLabs,25/04/2025,03:43,
-HelpDesk Support,Resolvido,Jaguar Mining,25/04/2025,21:14,
-HelpDesk Support,Resolvido,Jaguar Mining,25/04/2025,16:09,
 Bug,Entregue,Claro - Hub de Aparelhos,24/04/2025,16:56,
 Bug,Entregue,Claro - Hub de Aparelhos,24/04/2025,-110:27:00,
 Bug,Entregue,Claro - Hub de Aparelhos,24/04/2025,-05:55:00,17:37
 Bug,Entregue,Mais Alívio,24/04/2025,-19:09:00,-15:29:00
-HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,24/04/2025,-01:43:00,21:56
 New Feature,Entregue,Claro - Hub de Aparelhos,24/04/2025,02:29,
 New Feature,Entregue,EaseLabs,23/04/2025,-129:11:00,
 Bug,Entregue,Mais Alívio,23/04/2025,-79:12:00,-71:32:00
@@ -578,14 +653,12 @@ New Feature,Entregue,Sintesc,19/04/2025,-15:40:00,
 New Feature,Entregue,Sintesc,19/04/2025,-447:01:00,
 Bug,Entregue,Claro - Hub de Aparelhos,17/04/2025,-01:01:00,
 Bug,Entregue,Jaguar Mining,16/04/2025,-325:39:00,-301:59:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,16/04/2025,-01:03:00,22:36
 New Feature,Entregue,EaseLabs,16/04/2025,-35:05:00,
 New Feature,Entregue,Sintesc,16/04/2025,-637:38:00,
 New Feature,Entregue,Sintesc,16/04/2025,-300:09:00,
 New Feature,Entregue,Mais Alívio,15/04/2025,-413:15:00,
 New Feature,Entregue,Sintesc,15/04/2025,-473:42:00,
 New Feature,Entregue,Sintesc,15/04/2025,-55:21:00,
-HelpDesk Support,Resolvido,Jaguar Mining,15/04/2025,20:07,
 New Feature,Entregue,EaseLabs,15/04/2025,-45:17:00,
 Bug,Entregue,Claro - Hub de Aparelhos,15/04/2025,-06:14:00,-88:18:00
 Bug,Entregue,Claro - Hub de Aparelhos,14/04/2025,17:04,
@@ -599,10 +672,9 @@ New Feature,Entregue,Mais Alívio,11/04/2025,13:48,
 Bug,Entregue,Bro Energy,11/04/2025,-697:04:00,-673:24:00
 Bug,Entregue,Sintesc,11/04/2025,-18:50:00,-223:20:00
 Bug,Entregue,Claro - Hub de Aparelhos,10/04/2025,-15:32:00,-12:54:00
-HelpDesk Support,Resolvido,Sintesc,10/04/2025,-00:19:00,23:20
 Bug,Entregue,Claro - Hub de Aparelhos,10/04/2025,22:17,
 New Feature,Entregue,Jaguar Mining,10/04/2025,-71:01:00,
-New Feature,Em progresso,Sintesc,10/04/2025,-859:35:00,
+New Feature,Entregue,Sintesc,10/04/2025,-897:06:00,
 Bug,Entregue,Claro - Hub de Aparelhos,09/04/2025,-213:35:00,-278:48:00
 Bug,Entregue,Claro - Hub de Aparelhos,09/04/2025,-04:13:00,-09:23:00
 Bug,Entregue,Claro - Hub de Aparelhos,09/04/2025,-04:17:00,-09:25:00
@@ -617,7 +689,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,09/04/2025,-10:19:00,-10:35:00
 Bug,Entregue,Claro - Hub de Aparelhos,09/04/2025,-29:04:00,-27:19:00
 New Feature,Entregue,EaseLabs,08/04/2025,-188:44:00,
 New Feature,Entregue,Jaguar Mining,08/04/2025,-91:10:00,
-New Feature,Pendente,Jaguar Mining,08/04/2025,-874:16:00,
 New Feature,Entregue,Jaguar Mining,07/04/2025,11:16,
 New Feature,Entregue,EaseLabs,07/04/2025,11:10,
 Bug,Entregue,Mais Alívio,07/04/2025,-15:20:00,08:19
@@ -629,9 +700,6 @@ Bug,Entregue,Claro - Antiquebra,06/04/2025,23:27,
 New Feature,Entregue,EaseLabs,04/04/2025,06:03,
 Bug,Entregue,EaseLabs,04/04/2025,-123:07:00,-119:27:00
 Bug,Entregue,Sintesc,04/04/2025,-138:07:00,-134:27:00
-New Feature,Pendente,Sintesc,04/04/2025,-889:06:00,
-New Feature,Em progresso,Sintesc,04/04/2025,-889:14:00,
-New Feature,Em progresso,Sintesc,04/04/2025,-889:18:00,
 New Feature,Entregue,Mais Alívio,04/04/2025,00:09,
 Bug,Entregue,Claro - Hub de Aparelhos,04/04/2025,19:57,
 New Feature,Entregue,EaseLabs,03/04/2025,-212:53:00,
@@ -641,7 +709,6 @@ New Feature,Entregue,Claro - Hub de Aparelhos,02/04/2025,-316:07:00,
 Bug,Entregue,Claro - Hub de Aparelhos,02/04/2025,15:48,
 Bug,Entregue,Claro - Hub de Aparelhos,02/04/2025,-19:31:00,-03:33:00
 Bug,Entregue,Claro - Hub de Aparelhos,02/04/2025,-11:37:00,04:25
-New Feature,Pendente,Sintesc,31/03/2025,-920:46:00,
 Bug,Entregue,Claro - Hub de Aparelhos,31/03/2025,-05:46:00,-19:36:00
 Bug,Entregue,Claro - Hub de Aparelhos,31/03/2025,-05:32:00,17:07
 Bug,Entregue,Claro - Hub de Aparelhos,31/03/2025,-05:39:00,17:01
@@ -664,7 +731,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,27/03/2025,-36:03:00,-12:23:00
 Bug,Entregue,Claro - Hub de Aparelhos,27/03/2025,-41:51:00,-18:11:00
 Bug,Entregue,Visione,27/03/2025,-06:05:00,-587:21:00
 Bug,Entregue,Claro - Hub de Aparelhos,27/03/2025,-57:13:00,-33:33:00
-HelpDesk Support,Resolvido,Jaguar Mining,27/03/2025,18:20,
 Bug,Entregue,Claro - Hub de Aparelhos,27/03/2025,-57:46:00,-34:06:00
 Bug,Entregue,Claro - Hub de Aparelhos,27/03/2025,-38:56:00,-15:16:00
 Bug,Entregue,Mais Alívio,27/03/2025,-07:38:00,16:00
@@ -676,12 +742,10 @@ Bug,Entregue,EaseLabs,26/03/2025,-05:41:00,-21:20:00
 Bug,Entregue,Mais Alívio,26/03/2025,-49:34:00,-25:54:00
 New Feature,Entregue,Sintesc,25/03/2025,-00:50:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,25/03/2025,18:36,
-HelpDesk Support,Resolvido,Jaguar Mining,25/03/2025,14:54,
 New Feature,Entregue,Jaguar Mining,24/03/2025,-175:14:00,
 Bug,Entregue,Mais Alívio,24/03/2025,-63:33:00,-39:53:00
 Bug,Entregue,Claro - Hub de Aparelhos,24/03/2025,-04:17:00,-92:03:00
 New Feature,Entregue,EaseLabs,21/03/2025,16:56,
-New Feature,Pendente,Bro Energy,21/03/2025,-969:03:00,
 Bug,Entregue,Claro - Hub de Aparelhos,20/03/2025,-16:25:00,-08:25:00
 New Feature,Entregue,Sintesc,20/03/2025,-02:29:00,
 Bug,Entregue,Sintesc,20/03/2025,-15:52:00,-03:41:00
@@ -709,7 +773,6 @@ Bug,Entregue,Sintesc,17/03/2025,-12:43:00,10:56
 Bug,Entregue,Jaguar Mining,17/03/2025,-14:16:00,02:46
 Bug,Entregue,Sintesc,17/03/2025,00:05,23:45
 Bug,Entregue,Mais Alívio,17/03/2025,-27:53:00,-04:13:00
-New Feature,Pendente,Sintesc,16/03/2025,-1004:09:00,
 New Feature,Entregue,Sintesc,14/03/2025,-857:06:00,
 New Feature,Entregue,Jaguar Mining,14/03/2025,-226:00:00,
 Bug,Entregue,Claro - Hub de Aparelhos,13/03/2025,23:14,-08:39:00
@@ -720,7 +783,6 @@ New Feature,Entregue,Sintesc,12/03/2025,-100:58:00,
 New Feature,Entregue,EaseLabs,11/03/2025,-484:11:00,
 Bug,Entregue,Claro - Hub de Aparelhos,11/03/2025,-05:41:00,01:03
 Bug,Entregue,Claro - Hub de Aparelhos,11/03/2025,-22:43:00,00:56
-HelpDesk Support,Resolvido,EaseLabs,10/03/2025,01:26,25:26:00
 Bug,Entregue,Claro - Hub de Aparelhos,10/03/2025,-07:14:00,-31:52:00
 Bug,Entregue,Claro - Hub de Aparelhos,10/03/2025,-00:46:00,-31:50:00
 New Feature,Entregue,Claro - Hub de Aparelhos,10/03/2025,-32:24:00,
@@ -729,13 +791,11 @@ Bug,Entregue,Claro - Hub de Aparelhos,10/03/2025,-03:31:00,20:08
 Bug,Entregue,Visione,10/03/2025,-266:53:00,-243:13:00
 Bug,Entregue,Visione,10/03/2025,-90:56:00,-67:16:00
 Bug,Entregue,Visione,10/03/2025,-37:40:00,-48:17:00
-HelpDesk Support,Resolvido,Sintesc,08/03/2025,-55:40:00,-32:00:00
 Bug,Entregue,Sintesc,08/03/2025,-05:25:00,18:12
 Bug,Entregue,Claro - Hub de Aparelhos,07/03/2025,15:53,
 Bug,Entregue,Claro - Hub de Aparelhos,07/03/2025,15:39,
 Bug,Entregue,Claro - Hub de Aparelhos,07/03/2025,14:29,
 Bug,Entregue,Claro - Hub de Aparelhos,07/03/2025,22:28,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,07/03/2025,00:18,23:58
 Bug,Entregue,Claro - Hub de Aparelhos,07/03/2025,10:42,
 Bug,Entregue,Claro - Hub de Aparelhos,07/03/2025,10:08,
 Bug,Entregue,Claro - Hub de Aparelhos,07/03/2025,22:59,
@@ -762,7 +822,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,26/02/2025,-01:54:00,13:45
 New Feature,Entregue,Claro - Antiquebra,26/02/2025,-376:56:00,
 Bug,Entregue,Sintesc,26/02/2025,-12:01:00,11:38
 New Feature,Entregue,Jaguar Mining,26/02/2025,-107:33:00,
-Bug,Pendente,Claro - Antiquebra,26/02/2025,-1130:11:00,-1106:31:00
 Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,-41:19:00,-23:46:00
 Bug,Entregue,Claro - Antiquebra,25/02/2025,-609:52:00,-602:12:00
 Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,00:19,19:18
@@ -770,7 +829,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,-49:40:00,18:49
 Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,-00:06:00,07:30
 Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,-00:11:00,18:46
 Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,06:54,
-HelpDesk Support,Resolvido,Jaguar Mining,25/02/2025,05:41,
 New Feature,Entregue,Claro - Hub de Aparelhos,25/02/2025,-17:27:00,05:42
 Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,-01:29:00,17:24
 Bug,Entregue,Claro - Hub de Aparelhos,25/02/2025,-17:31:00,05:58
@@ -789,9 +847,7 @@ Bug,Entregue,Claro - Antiquebra,24/02/2025,-51:45:00,-48:05:00
 Bug,Entregue,Claro - Hub de Aparelhos,24/02/2025,-00:19:00,16:19
 New Feature,Entregue,Claro - Hub de Aparelhos,24/02/2025,01:06,
 Bug,Entregue,Claro - Hub de Aparelhos,24/02/2025,22:20,
-New Feature,Pendente,Claro - Antiquebra,22/02/2025,-1124:09:00,
 New Feature,Entregue,Claro - Antiquebra,22/02/2025,-602:06:00,
-New Feature,Pendente,Claro - Antiquebra,22/02/2025,-1124:09:00,
 Bug,Entregue,Claro - Hub de Aparelhos,21/02/2025,-24:06:00,-05:54:00
 Bug,Entregue,Claro - Hub de Aparelhos,21/02/2025,-29:35:00,-05:55:00
 Bug,Entregue,Claro - Hub de Aparelhos,21/02/2025,-17:26:00,06:13
@@ -808,7 +864,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,20/02/2025,-06:25:00,09:39
 New Feature,Entregue,Visione,20/02/2025,-65:56:00,
 Bug,Entregue,Visione,20/02/2025,-129:25:00,-160:07:00
 Bug,Entregue,Claro - Hub de Aparelhos,20/02/2025,-42:31:00,-18:51:00
-HelpDesk Support,Resolvido,Jaguar Mining,20/02/2025,22:32,
 New Feature,Entregue,Claro - Antiquebra,19/02/2025,-351:46:00,
 New Feature,Entregue,Claro - Antiquebra,19/02/2025,-894:33:00,
 New Feature,Entregue,Claro - Antiquebra,19/02/2025,-214:15:00,
@@ -826,7 +881,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,18/02/2025,-15:05:00,08:34
 New Feature,Entregue,Claro - Hub de Aparelhos,18/02/2025,-44:27:00,-20:49:00
 Bug,Entregue,Claro - Hub de Aparelhos,18/02/2025,24:00:00,
 Bug,Entregue,Claro - Hub de Aparelhos,18/02/2025,-04:04:00,19:35
-HelpDesk Support,Resolvido,Jaguar Mining,18/02/2025,-16:17:00,
 Bug,Entregue,Claro - Hub de Aparelhos,18/02/2025,-07:33:00,16:06
 Bug,Entregue,Claro - Hub de Aparelhos,18/02/2025,-24:15:00,-00:35:00
 Bug,Entregue,Claro - Hub de Aparelhos,18/02/2025,-23:17:00,-00:52:00
@@ -845,22 +899,14 @@ Bug,Entregue,Claro - Hub de Aparelhos,17/02/2025,22:11,
 Bug,Entregue,Claro - Hub de Aparelhos,17/02/2025,21:36,
 New Feature,Entregue,EaseLabs,17/02/2025,-121:24:00,
 Bug,Entregue,Claro - Antiquebra,17/02/2025,-15:02:00,08:37
-New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1164:09:00,
 New Feature,Entregue,Claro - Antiquebra,16/02/2025,-31:36:00,
 New Feature,Entregue,Claro - Antiquebra,16/02/2025,-918:34:00,
 New Feature,Entregue,Claro - Antiquebra,16/02/2025,-238:14:00,
 New Feature,Entregue,Claro - Antiquebra,16/02/2025,-720:00:00,
-New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1164:09:00,
-New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1164:09:00,
 New Feature,Entregue,Claro - Antiquebra,16/02/2025,-1032:38:00,
-New Feature,Em progresso,Claro - Antiquebra,16/02/2025,-1164:09:00,
 New Feature,Entregue,Claro - Antiquebra,16/02/2025,-720:00:00,
 Bug,Entregue,Claro - Antiquebra,16/02/2025,-99:41:00,-96:01:00
-New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1164:09:00,
-New Feature,Pendente,Claro - Antiquebra,15/02/2025,-1164:09:00,
 New Feature,Entregue,Claro - Antiquebra,15/02/2025,-1102:05:00,
-New Feature,Pendente,Claro - Antiquebra,15/02/2025,-1164:09:00,
-New Feature,Pendente,Claro - Antiquebra,15/02/2025,-1164:09:00,
 Bug,Entregue,Claro - Hub de Aparelhos,15/02/2025,-01:57:00,19:34
 Bug,Entregue,Claro - Hub de Aparelhos,15/02/2025,24:00:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,14/02/2025,-15:40:00,08:00
@@ -875,8 +921,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,13/02/2025,-06:47:00,10:56
 Bug,Entregue,Claro - Hub de Aparelhos,13/02/2025,-08:20:00,07:19
 Bug,Entregue,EaseLabs,13/02/2025,-142:47:00,-119:07:00
 New Feature,Entregue,EaseLabs,13/02/2025,-18:39:00,
-HelpDesk Support,Resolvido,Jaguar Mining,12/02/2025,-52:27:00,
-HelpDesk Support,Resolvido,EaseLabs,11/02/2025,-27:55:00,-04:15:00
 Bug,Entregue,Claro - Hub de Aparelhos,11/02/2025,-26:12:00,-18:32:00
 Bug,Entregue,Claro - Hub de Aparelhos,11/02/2025,21:29,
 New Feature,Entregue,Claro - Hub de Aparelhos,11/02/2025,-11:51:00,
@@ -886,87 +930,78 @@ Bug,Entregue,Claro - Hub de Aparelhos,10/02/2025,-02:42:00,-09:59:00
 Bug,Entregue,Claro - Antiquebra,10/02/2025,-55:24:00,-31:44:00
 Bug,Entregue,Claro - Hub de Aparelhos,07/02/2025,-05:47:00,-11:15:00
 Bug,Entregue,Claro - Antiquebra,06/02/2025,-01:18:00,22:21
-HelpDesk Support,Resolvido,Jaguar Mining,06/02/2025,19:07,
-HelpDesk Support,Resolvido,Jaguar Mining,06/02/2025,03:53,
-HelpDesk Support,Resolvido,Jaguar Mining,06/02/2025,16:00,
 New Feature,Entregue,Claro - Antiquebra,06/02/2025,-87:49:00,
-HelpDesk Support,Resolvido,Sintesc,06/02/2025,-21:34:00,02:05
 Bug,Entregue,Claro - Antiquebra,05/02/2025,-32:06:00,-08:26:00
 Bug,Entregue,Jaguar Mining,05/02/2025,-09:46:00,13:53
 Bug,Entregue,Claro - Hub de Aparelhos,05/02/2025,19:00,
 Bug,Entregue,Claro - Hub de Aparelhos,05/02/2025,-06:17:00,-10:12:00
 New Feature,Entregue,Claro - Antiquebra,04/02/2025,-342:30:00,
-New Feature,Pendente,Claro - Antiquebra,04/02/2025,-1228:09:00,
 Bug,Entregue,Claro - Antiquebra,04/02/2025,-79:30:00,-55:50:00
 New Feature,Entregue,Claro - Hub de Aparelhos,04/02/2025,-04:43:00,
 Bug,Entregue,Claro - Hub de Aparelhos,03/02/2025,-02:58:00,-20:36:00
-Bug,Entregue,Claro - Hub de Aparelhos,30/01/2025,-56:02:00,-72:02:00
-Bug,Entregue,Claro - Hub de Aparelhos,30/01/2025,23:26,
-Bug,Entregue,Claro - Manifestos RMG,30/01/2025,-122:41:00,-141:44:00
-Bug,Entregue,Claro - Manifestos RMG,30/01/2025,-122:45:00,-99:05:00
-Bug,Entregue,Claro - Manifestos RMG,30/01/2025,-122:47:00,-99:07:00
-Bug,Entregue,Claro - Manifestos RMG,30/01/2025,-122:49:00,-99:09:00
-Bug,Entregue,Claro - Manifestos RMG,30/01/2025,-122:55:00,-141:44:00
-Bug,Entregue,Claro - Manifestos RMG,30/01/2025,-122:58:00,-141:45:00
-Bug,Entregue,Claro - Manifestos RMG,30/01/2025,-123:02:00,-99:22:00
-New Feature,Entregue,Claro - Manifestos RMG,30/01/2025,-99:26:00,
-Bug,Entregue,Summerpass,30/01/2025,-53:23:00,-29:43:00
-HelpDesk Support,Resolvido,Jaguar Mining,29/01/2025,22:57,
-Bug,Entregue,Claro - Hub de Aparelhos,29/01/2025,17:14,
-New Feature,Entregue,Claro - Antiquebra,27/01/2025,-1136:41:00,
-Bug,Entregue,Claro - Hub de Aparelhos,27/01/2025,-27:41:00,-24:01:00
-Bug,Entregue,Claro - Hub de Aparelhos,27/01/2025,00:02,23:38
-Bug,Entregue,Claro - Hub de Aparelhos,26/01/2025,22:08,
-New Feature,Entregue,Summerpass,26/01/2025,-691:54:00,
-New Feature,Entregue,Summerpass,26/01/2025,-691:57:00,
-New Feature,Entregue,Summerpass,26/01/2025,-692:11:00,
-Bug,Entregue,Summerpass,26/01/2025,-52:00:00,-28:20:00
-New Feature,Entregue,Summerpass,26/01/2025,-716:17:00,-692:37:00
-Bug,Entregue,Summerpass,26/01/2025,-716:24:00,-692:44:00
-Bug,Entregue,Claro - Hub de Aparelhos,26/01/2025,21:32,
-Bug,Entregue,Summerpass,26/01/2025,-717:16:00,-693:36:00
-New Feature,Entregue,Summerpass,26/01/2025,-693:42:00,
-Bug,Entregue,Summerpass,26/01/2025,-718:04:00,-694:24:00
-New Feature,Entregue,Summerpass,26/01/2025,-694:40:00,
-Bug,Entregue,Summerpass,26/01/2025,-718:32:00,-694:52:00
-Bug,Entregue,Visione,23/01/2025,-240:09:00,-290:38:00
-New Feature,Entregue,Visione,23/01/2025,-248:34:00,
-Bug,Entregue,Visione,23/01/2025,-240:16:00,-290:44:00
-Bug,Entregue,Claro - Hub de Aparelhos,22/01/2025,-00:45:00,-64:34:00
-Bug,Entregue,Claro - Hub de Aparelhos,22/01/2025,-01:12:00,21:23
-New Feature,Entregue,Claro - Antiquebra,22/01/2025,-567:52:00,
-New Feature,Entregue,Claro - Hub de Aparelhos,22/01/2025,-114:09:00,
-Bug,Entregue,Claro - Hub de Aparelhos,19/01/2025,23:20,
-Bug,Entregue,Claro - Hub de Aparelhos,19/01/2025,19:15,
-Bug,Entregue,Claro - Hub de Aparelhos,16/01/2025,-30:40:00,-48:56:00
-New Feature,Entregue,Claro - Hub de Aparelhos,16/01/2025,00:19,
-Bug,Entregue,Claro - Hub de Aparelhos,16/01/2025,-03:24:00,-01:22:00
-Bug,Entregue,Claro - Hub de Aparelhos,14/01/2025,-94:55:00,-05:09:00
-HelpDesk Support,Resolvido,EaseLabs,13/01/2025,-72:45:00,-49:05:00
-New Feature,Entregue,Sintesc,13/01/2025,-70:40:00,
-Bug,Entregue,Claro - Hub de Aparelhos,12/01/2025,-22:39:00,01:00
-Bug,Entregue,Claro - Hub de Aparelhos,12/01/2025,-54:55:00,23:58
-Bug,Entregue,Solução em Focco,09/01/2025,-720:36:00,-696:56:00
-Bug,Entregue,Solução em Focco,09/01/2025,-720:37:00,-696:57:00
-Bug,Entregue,Solução em Focco,09/01/2025,-720:37:00,-696:57:00
-Bug,Entregue,Solução em Focco,09/01/2025,-720:38:00,-696:58:00
-Bug,Entregue,Solução em Focco,09/01/2025,-720:38:00,-696:58:00
-Bug,Entregue,Solução em Focco,09/01/2025,-168:38:00,-144:58:00
-Bug,Entregue,Solução em Focco,09/01/2025,-172:07:00,-148:27:00
-HelpDesk Support,Resolvido,Jaguar Mining,09/01/2025,24:00:00,
-New Feature,Entregue,Claro - Hub de Aparelhos,08/01/2025,15:19,
-Bug,Entregue,Claro - Hub de Aparelhos,08/01/2025,-16:09:00,
-New Feature,Entregue,Claro - Hub de Aparelhos,07/01/2025,-06:44:00,
-Bug,Entregue,Claro - Hub de Aparelhos,07/01/2025,-01:18:00,22:21
-Bug,Entregue,Claro - Hub de Aparelhos,07/01/2025,-00:23:00,23:16
-New Feature,Entregue,Sintesc,07/01/2025,-1235:32:00,
-HelpDesk Support,Resolvido,Jaguar Mining,07/01/2025,18:14,
-Bug,Entregue,Claro - Hub de Aparelhos,06/01/2025,-00:33:00,23:06
-Bug,Entregue,Claro - Hub de Aparelhos,06/01/2025,22:22,
-Bug,Entregue,Sintesc,05/01/2025,-509:56:00,-531:56:00
-Bug,Entregue,Claro - Hub de Aparelhos,04/01/2025,08:00,
-New Feature,Entregue,Sintesc,02/01/2025,-131:40:00,
-New Feature,Entregue,Sintesc,02/01/2025,-744:24:00,
+Bug,Entregue,Claro - Hub de Aparelhos,31/01/2025,-56:02:00,-72:02:00
+Bug,Entregue,Claro - Hub de Aparelhos,31/01/2025,23:26,
+Bug,Entregue,Claro - Manifestos RMG,31/01/2025,-122:41:00,-141:44:00
+Bug,Entregue,Claro - Manifestos RMG,31/01/2025,-122:45:00,-99:05:00
+Bug,Entregue,Claro - Manifestos RMG,31/01/2025,-122:47:00,-99:07:00
+Bug,Entregue,Claro - Manifestos RMG,31/01/2025,-122:49:00,-99:09:00
+Bug,Entregue,Claro - Manifestos RMG,31/01/2025,-122:55:00,-141:44:00
+Bug,Entregue,Claro - Manifestos RMG,31/01/2025,-122:58:00,-141:45:00
+Bug,Entregue,Claro - Manifestos RMG,31/01/2025,-123:02:00,-99:22:00
+New Feature,Entregue,Claro - Manifestos RMG,31/01/2025,-99:26:00,
+Bug,Entregue,Summerpass,31/01/2025,-53:23:00,-29:43:00
+Bug,Entregue,Claro - Hub de Aparelhos,30/01/2025,17:14,
+New Feature,Entregue,Claro - Antiquebra,28/01/2025,-1136:41:00,
+Bug,Entregue,Claro - Hub de Aparelhos,28/01/2025,-27:41:00,-24:01:00
+Bug,Entregue,Claro - Hub de Aparelhos,28/01/2025,00:02,23:38
+Bug,Entregue,Claro - Hub de Aparelhos,27/01/2025,22:08,
+New Feature,Entregue,Summerpass,27/01/2025,-691:54:00,
+New Feature,Entregue,Summerpass,27/01/2025,-691:57:00,
+New Feature,Entregue,Summerpass,27/01/2025,-692:11:00,
+Bug,Entregue,Summerpass,27/01/2025,-52:00:00,-28:20:00
+New Feature,Entregue,Summerpass,27/01/2025,-716:17:00,-692:37:00
+Bug,Entregue,Summerpass,27/01/2025,-716:24:00,-692:44:00
+Bug,Entregue,Claro - Hub de Aparelhos,27/01/2025,21:32,
+Bug,Entregue,Summerpass,27/01/2025,-717:16:00,-693:36:00
+New Feature,Entregue,Summerpass,27/01/2025,-693:42:00,
+Bug,Entregue,Summerpass,27/01/2025,-718:04:00,-694:24:00
+New Feature,Entregue,Summerpass,27/01/2025,-694:40:00,
+Bug,Entregue,Summerpass,27/01/2025,-718:32:00,-694:52:00
+Bug,Entregue,Visione,24/01/2025,-240:09:00,-290:38:00
+New Feature,Entregue,Visione,24/01/2025,-248:34:00,
+Bug,Entregue,Visione,24/01/2025,-240:16:00,-290:44:00
+Bug,Entregue,Claro - Hub de Aparelhos,23/01/2025,-00:45:00,-64:34:00
+Bug,Entregue,Claro - Hub de Aparelhos,23/01/2025,-01:12:00,21:23
+New Feature,Entregue,Claro - Antiquebra,23/01/2025,-567:52:00,
+New Feature,Entregue,Claro - Hub de Aparelhos,23/01/2025,-114:09:00,
+Bug,Entregue,Claro - Hub de Aparelhos,20/01/2025,23:20,
+Bug,Entregue,Claro - Hub de Aparelhos,20/01/2025,19:15,
+Bug,Entregue,Claro - Hub de Aparelhos,17/01/2025,-30:40:00,-48:56:00
+New Feature,Entregue,Claro - Hub de Aparelhos,17/01/2025,00:19,
+Bug,Entregue,Claro - Hub de Aparelhos,17/01/2025,-03:24:00,-01:22:00
+Bug,Entregue,Claro - Hub de Aparelhos,15/01/2025,-94:55:00,-05:09:00
+New Feature,Entregue,Sintesc,14/01/2025,-70:40:00,
+Bug,Entregue,Claro - Hub de Aparelhos,13/01/2025,-22:39:00,01:00
+Bug,Entregue,Claro - Hub de Aparelhos,13/01/2025,-54:55:00,23:58
+Bug,Entregue,Solução em Focco,10/01/2025,-720:36:00,-696:56:00
+Bug,Entregue,Solução em Focco,10/01/2025,-720:37:00,-696:57:00
+Bug,Entregue,Solução em Focco,10/01/2025,-720:37:00,-696:57:00
+Bug,Entregue,Solução em Focco,10/01/2025,-720:38:00,-696:58:00
+Bug,Entregue,Solução em Focco,10/01/2025,-720:38:00,-696:58:00
+Bug,Entregue,Solução em Focco,10/01/2025,-168:38:00,-144:58:00
+Bug,Entregue,Solução em Focco,10/01/2025,-172:07:00,-148:27:00
+New Feature,Entregue,Claro - Hub de Aparelhos,09/01/2025,15:19,
+Bug,Entregue,Claro - Hub de Aparelhos,09/01/2025,-16:09:00,
+New Feature,Entregue,Claro - Hub de Aparelhos,08/01/2025,-06:44:00,
+Bug,Entregue,Claro - Hub de Aparelhos,08/01/2025,-01:18:00,22:21
+Bug,Entregue,Claro - Hub de Aparelhos,08/01/2025,-00:23:00,23:16
+New Feature,Entregue,Sintesc,08/01/2025,-1235:32:00,
+Bug,Entregue,Claro - Hub de Aparelhos,07/01/2025,-00:33:00,23:06
+Bug,Entregue,Claro - Hub de Aparelhos,07/01/2025,22:22,
+Bug,Entregue,Sintesc,06/01/2025,-509:56:00,-531:56:00
+Bug,Entregue,Claro - Hub de Aparelhos,05/01/2025,08:00,
+New Feature,Entregue,Sintesc,03/01/2025,-131:40:00,
+New Feature,Entregue,Sintesc,03/01/2025,-744:24:00,
 Bug,Entregue,Claro - Hub de Aparelhos,27/12/2024,-23:27:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,27/12/2024,-86:51:00,
 Bug,Entregue,Sintesc,26/12/2024,-00:31:00,23:08
@@ -975,14 +1010,12 @@ Bug,Entregue,Claro - Hub de Aparelhos,26/12/2024,00:59,
 Bug,Entregue,Claro - Hub de Aparelhos,24/12/2024,22:01,
 Bug,Entregue,Claro - Hub de Aparelhos,20/12/2024,-53:57:00,-30:17:00
 Bug,Entregue,Sintesc,20/12/2024,-50:16:00,-26:36:00
-New Feature,Pendente,Sintesc,20/12/2024,-1492:09:00,
+New Feature,Entregue,Sintesc,20/12/2024,-1544:00:00,
 Bug,Entregue,Claro - Hub de Aparelhos,19/12/2024,-55:40:00,-32:00:00
 Bug,Entregue,Claro - Hub de Aparelhos,19/12/2024,-55:40:00,-32:00:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/12/2024,-127:27:00,-103:47:00
 New Feature,Entregue,Sintesc,19/12/2024,-500:37:00,
 Bug,Entregue,Claro - Hub de Aparelhos,18/12/2024,-63:40:00,-40:00:00
 New Feature,Entregue,Sintesc,18/12/2024,-431:11:00,
-HelpDesk Support,Resolvido,Jaguar Mining,18/12/2024,-109:20:00,
 Bug,Entregue,Claro - Hub de Aparelhos,17/12/2024,-16:06:00,07:33
 Bug,Entregue,Claro - Hub de Aparelhos,17/12/2024,-17:46:00,05:53
 Bug,Entregue,Claro - Antiquebra,17/12/2024,-172:01:00,-148:21:00
@@ -995,36 +1028,25 @@ Bug,Entregue,Claro - Hub de Aparelhos,16/12/2024,-29:58:00,-30:03:00
 Bug,Entregue,Claro - Hub de Aparelhos,13/12/2024,19:28,
 Bug,Entregue,Solução em Focco,13/12/2024,-281:17:00,-257:37:00
 Bug,Entregue,Claro - Hub de Aparelhos,13/12/2024,-33:24:00,-09:44:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/12/2024,-04:48:00,18:51
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/12/2024,-05:09:00,18:30
 Bug,Entregue,Claro - Hub de Aparelhos,13/12/2024,20:57,
 New Feature,Entregue,Claro - Hub de Aparelhos,13/12/2024,-14:13:00,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,13/12/2024,-10:10:00,13:29
 Bug,Entregue,Claro - Hub de Aparelhos,12/12/2024,15:18,
 Bug,Entregue,Claro - Hub de Aparelhos,12/12/2024,-08:26:00,15:13
-HelpDesk Support,Resolvido,Jaguar Mining,11/12/2024,-145:36:00,
 Bug,Entregue,Mais Alívio,11/12/2024,-642:53:00,
 New Feature,Entregue,Mais Alívio,11/12/2024,-413:31:00,
-HelpDesk Support,Resolvido,Jaguar Mining,10/12/2024,-151:13:00,
 Bug,Entregue,Claro - Antiquebra,10/12/2024,-200:56:00,-177:16:00
 New Feature,Entregue,Claro - Hub de Aparelhos,10/12/2024,-210:16:00,
 Bug,Entregue,Claro - Hub de Aparelhos,09/12/2024,-12:31:00,
 Bug,Entregue,Claro - Hub de Aparelhos,09/12/2024,05:37,
 Bug,Entregue,Claro - Hub de Aparelhos,09/12/2024,-41:03:00,
 New Feature,Entregue,Mais Alívio,09/12/2024,-425:35:00,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,09/12/2024,-15:21:00,08:38
 Bug,Entregue,Claro - Hub de Aparelhos,09/12/2024,-17:17:00,
 Bug,Entregue,Claro - Hub de Aparelhos,09/12/2024,-46:15:00,
-HelpDesk Support,Cancelado,Jaguar Mining,09/12/2024,22:45,
 Bug,Entregue,Claro - Hub de Aparelhos,06/12/2024,24:00:00,
 Bug,Entregue,Claro - Hub de Aparelhos,06/12/2024,21:42,
 Bug,Entregue,Sintesc,06/12/2024,00:08,23:48
 Bug,Entregue,Claro - Hub de Aparelhos,05/12/2024,-08:09:00,15:30
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-00:55:00,22:44
 Bug,Entregue,Claro - Hub de Aparelhos,05/12/2024,-56:03:00,-32:23:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-03:44:00,19:55
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-04:25:00,19:14
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/12/2024,-00:33:00,23:06
 Bug,Entregue,Claro - Hub de Aparelhos,05/12/2024,-02:34:00,21:05
 New Feature,Entregue,Claro - Antiquebra,05/12/2024,-535:53:00,
 New Feature,Entregue,Claro - Antiquebra,04/12/2024,-288:00:00,
@@ -1037,13 +1059,7 @@ New Feature,Entregue,Claro - Antiquebra,04/12/2024,-253:11:00,
 New Feature,Entregue,Claro - Antiquebra,04/12/2024,17:07,
 Bug,Entregue,Claro - Antiquebra,04/12/2024,-242:47:00,-219:07:00
 Bug,Entregue,Claro - Antiquebra,04/12/2024,-231:40:00,-208:00:00
-New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1580:09:00,
 New Feature,Entregue,Claro - Antiquebra,04/12/2024,-447:55:00,
-New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1580:15:00,
-New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1580:16:00,
-New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1580:19:00,
-New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1580:22:00,
-New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1580:23:00,
 New Feature,Entregue,Claro - Antiquebra,04/12/2024,-218:42:00,
 Bug,Entregue,Claro - Antiquebra,04/12/2024,-311:56:00,-288:16:00
 New Feature,Entregue,Claro - Antiquebra,04/12/2024,-327:33:00,
@@ -1081,17 +1097,11 @@ Bug,Entregue,Claro - Hub de Aparelhos,02/12/2024,-01:55:00,21:44
 Bug,Entregue,Claro - Hub de Aparelhos,02/12/2024,18:48,
 New Feature,Entregue,Claro - Hub de Aparelhos,02/12/2024,02:20,
 New Feature,Entregue,Claro - Antiquebra,02/12/2024,-170:26:00,
-HelpDesk Support,Resolvido,Jaguar Mining,02/12/2024,23:58,
 Bug,Entregue,Claro - Antiquebra,29/11/2024,22:41,
 Bug,Entregue,Jade Autism,29/11/2024,-280:42:00,-257:02:00
 Bug,Entregue,Claro - Antiquebra,29/11/2024,-12:57:00,10:42
 Bug,Entregue,Claro - Hub de Aparelhos,29/11/2024,22:27,
-HelpDesk Support,Resolvido,Jaguar Mining,28/11/2024,09:09,
 Bug,Entregue,Claro - Hub de Aparelhos,27/11/2024,-255:24:00,-231:44:00
-HelpDesk Support,Resolvido,Sintesc,27/11/2024,-37:45:00,-14:05:00
-HelpDesk Support,Resolvido,Sintesc,27/11/2024,-37:53:00,-14:13:00
-HelpDesk Support,Resolvido,Sintesc,27/11/2024,-37:59:00,-14:19:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,26/11/2024,-01:55:00,22:03
 New Feature,Entregue,Claro - Antiquebra,26/11/2024,-262:26:00,
 Bug,Entregue,Claro - Hub de Aparelhos,26/11/2024,19:14,
 Bug,Entregue,Pro Labore,25/11/2024,-06:44:00,-104:00:00
@@ -1116,7 +1126,6 @@ Bug,Entregue,Claro - Antiquebra,18/11/2024,23:32,
 Bug,Entregue,Claro - Antiquebra,18/11/2024,23:32,
 Bug,Entregue,Sintesc,18/11/2024,-36:50:00,-13:10:00
 Bug,Entregue,Claro - Hub de Aparelhos,15/11/2024,05:43,
-HelpDesk Support,Resolvido,Jaguar Mining,14/11/2024,14:55,
 New Feature,Entregue,Claro - Antiquebra,14/11/2024,-66:18:00,
 New Feature,Entregue,Claro - Antiquebra,13/11/2024,-266:34:00,
 Bug,Entregue,Claro - Antiquebra,13/11/2024,-95:40:00,-72:00:00
@@ -1124,12 +1133,10 @@ Bug,Entregue,Claro - Antiquebra,13/11/2024,-23:40:00,-72:00:00
 Bug,Entregue,Claro - Antiquebra,13/11/2024,-112:05:00,-88:25:00
 Bug,Entregue,Claro - Antiquebra,13/11/2024,-95:40:00,-72:00:00
 Bug,Entregue,Claro - Antiquebra,13/11/2024,-95:40:00,-72:00:00
-HelpDesk Support,Resolvido,Jaguar Mining,13/11/2024,20:52,
 Bug,Entregue,Sintesc,13/11/2024,-30:55:00,-46:31:00
 Bug,Entregue,Claro - Hub de Aparelhos,11/11/2024,16:21,
 Bug,Entregue,Claro - Hub de Aparelhos,11/11/2024,-78:36:00,-61:13:00
 Bug,Entregue,Solução em Focco,11/11/2024,-196:38:00,-172:58:00
-HelpDesk Support,Resolvido,Sintesc,11/11/2024,-25:11:00,-25:31:00
 Bug,Entregue,Claro - Hub de Aparelhos,11/11/2024,-27:37:00,-67:01:00
 Bug,Entregue,Claro - Hub de Aparelhos,11/11/2024,-22:13:00,-17:16:00
 Bug,Entregue,Claro - Hub de Aparelhos,11/11/2024,-30:42:00,-07:02:00
@@ -1143,10 +1150,8 @@ Bug,Entregue,Solução em Focco,08/11/2024,-1086:44:00,-1063:04:00
 Bug,Entregue,Solução em Focco,08/11/2024,-94:45:00,-71:05:00
 Bug,Entregue,Solução em Focco,08/11/2024,-94:45:00,-71:05:00
 Bug,Entregue,Solução em Focco,08/11/2024,-94:46:00,-71:06:00
-HelpDesk Support,Resolvido,Jaguar Mining,08/11/2024,22:37,
 New Feature,Entregue,Claro - Antiquebra,07/11/2024,-122:12:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,07/11/2024,-1147:37:00,
-HelpDesk Support,Resolvido,Jaguar Mining,07/11/2024,12:45,
 Bug,Entregue,Claro - Antiquebra,07/11/2024,-20:37:00,
 Bug,Entregue,Claro - Hub de Aparelhos,06/11/2024,11:16,
 Bug,Entregue,Claro - Antiquebra,06/11/2024,23:40,
@@ -1163,18 +1168,13 @@ Bug,Entregue,Mais Alívio,31/10/2024,-138:54:00,-115:14:00
 New Feature,Entregue,Mais Alívio,31/10/2024,-1243:16:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,31/10/2024,-34:29:00,
 Bug,Entregue,Solução em Focco,30/10/2024,-495:53:00,-472:13:00
-HelpDesk Support,Resolvido,Jaguar Mining,30/10/2024,08:09,
 Bug,Entregue,Sintesc,30/10/2024,-156:46:00,-133:07:00
 New Feature,Entregue,Mais Alívio,29/10/2024,-132:13:00,
 Bug,Entregue,Solução em Focco,28/10/2024,-49:18:00,-25:38:00
 New Feature,Entregue,Mais Alívio,28/10/2024,-193:48:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,28/10/2024,-26:43:00,
-HelpDesk Support,Cancelado,Jaguar Mining,28/10/2024,-04:26:00,
-HelpDesk Support,Cancelado,Jaguar Mining,28/10/2024,-04:26:00,
-HelpDesk Support,Resolvido,Jaguar Mining,28/10/2024,-04:32:00,
 New Feature,Entregue,Sintesc,28/10/2024,-332:56:00,
 Bug,Entregue,Mais Alívio,28/10/2024,-55:09:00,-31:29:00
-HelpDesk Support,Resolvido,Jaguar Mining,28/10/2024,21:20,
 Bug,Entregue,Claro - Hub de Aparelhos,27/10/2024,-122:27:00,-98:47:00
 Bug,Entregue,Claro - Hub de Aparelhos,27/10/2024,-122:27:00,-98:47:00
 Bug,Entregue,Claro - Hub de Aparelhos,27/10/2024,-122:26:00,-98:46:00
@@ -1182,8 +1182,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,27/10/2024,-122:26:00,-98:46:00
 New Feature,Entregue,Claro - Hub de Aparelhos,24/10/2024,-96:00:00,
 Bug,Entregue,Claro - Hub de Aparelhos,24/10/2024,00:00,
 New Feature,Entregue,Sintesc,24/10/2024,-537:12:00,
-HelpDesk Support,Resolvido,Jaguar Mining,24/10/2024,20:37,
-HelpDesk Support,Resolvido,Jaguar Mining,24/10/2024,20:31,
 New Feature,Entregue,Mais Alívio,24/10/2024,-216:01:00,
 Bug,Entregue,Claro - Hub de Aparelhos,23/10/2024,-118:55:00,
 New Feature,Entregue,Sintesc,23/10/2024,-166:24:00,
@@ -1194,8 +1192,6 @@ Bug,Entregue,Claro - Hub de Aparelhos,21/10/2024,-154:24:00,-130:44:00
 Bug,Entregue,Claro - Hub de Aparelhos,21/10/2024,-154:23:00,-130:43:00
 Bug,Entregue,Claro - Hub de Aparelhos,21/10/2024,-154:21:00,-130:41:00
 Bug,Entregue,Claro - Hub de Aparelhos,21/10/2024,-159:15:00,-135:35:00
-HelpDesk Support,Resolvido,Jaguar Mining,21/10/2024,22:35,
-HelpDesk Support,Resolvido,Jaguar Mining,18/10/2024,23:23,
 Bug,Entregue,Claro - Hub de Aparelhos,18/10/2024,-01:50:00,-08:00:00
 New Feature,Entregue,Sintesc,18/10/2024,-839:09:00,
 Bug,Entregue,Claro - Hub de Aparelhos,17/10/2024,19:52,
@@ -1204,7 +1200,6 @@ New Feature,Entregue,Mais Alívio,17/10/2024,23:26,
 New Feature,Entregue,Solução em Focco,17/10/2024,23:57,
 New Feature,Entregue,Solução em Focco,17/10/2024,23:53,
 New Feature,Entregue,Solução em Focco,17/10/2024,23:52,
-HelpDesk Support,Resolvido,Jaguar Mining,16/10/2024,23:48,
 New Feature,Entregue,Jade Autism,15/10/2024,22:21,
 New Feature,Entregue,Claro - Hub de Aparelhos,15/10/2024,18:38,
 Bug,Entregue,Solução em Focco,15/10/2024,-07:52:00,-283:27:00
@@ -1256,39 +1251,18 @@ Bug,Entregue,Mais Alívio,07/10/2024,-00:08:00,-23:04:00
 Bug,Entregue,Mais Alívio,07/10/2024,-00:20:00,-23:23:00
 Bug,Entregue,Mais Alívio,07/10/2024,-00:32:00,-76:37:00
 Bug,Entregue,Sintesc,07/10/2024,-28:04:00,-04:24:00
-HelpDesk Support,Resolvido,Jaguar Mining,07/10/2024,19:59,
 New Feature,Entregue,Claro - Hub de Aparelhos,04/10/2024,23:27,
 New Feature,Entregue,Sintesc,03/10/2024,16:49,
-HelpDesk Support,Resolvido,Jaguar Mining,03/10/2024,24:00:00,
-HelpDesk Support,Resolvido,Jaguar Mining,02/10/2024,24:00:00,
 Bug,Entregue,Claro - Hub de Aparelhos,02/10/2024,24:00:00,-39:13:00
-HelpDesk Support,Resolvido,Mais Alívio,01/10/2024,24:00:00,-40:00:00
 Bug,Entregue,Claro - Hub de Aparelhos,01/10/2024,23:47,-39:27:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,30/09/2024,-00:50:00,17:19
-HelpDesk Support,Resolvido,Sintesc,30/09/2024,-00:30:00,-08:31:00
 Bug,Entregue,Sintesc,27/09/2024,00:06,-244:46:00
 Bug,Entregue,Claro - Hub de Aparelhos,27/09/2024,21:35,
 New Feature,Entregue,Mais Alívio,26/09/2024,23:29,
-New Feature,Pendente,Sintesc,26/09/2024,22:55,
+New Feature,Entregue,Sintesc,26/09/2024,22:55,
 Bug,Entregue,Sintesc,26/09/2024,-01:08:00,-324:37:00
 Bug,Entregue,Claro - Hub de Aparelhos,25/09/2024,22:05,
 Bug,Entregue,Solução em Focco,25/09/2024,-05:13:00,06:09
 Bug,Entregue,Jade Autism,25/09/2024,-05:27:00,-82:40:00
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:05:00,01:34
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:06:00,01:33
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:07:00,01:32
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:09:00,01:30
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:10:00,01:29
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:11:00,01:28
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:12:00,01:27
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:13:00,01:26
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:15:00,01:24
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:16:00,01:23
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:18:00,01:21
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:20:00,01:19
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-22:21:00,01:18
-HelpDesk Support,Resolvido,Sintesc,25/09/2024,-00:42:00,14:00
-HelpDesk Support,Resolvido,Sintesc,24/09/2024,00:11,16:31
 Bug,Entregue,Jade Autism,23/09/2024,-01:44:00,-07:48:00
 Bug,Entregue,Jade Autism,23/09/2024,-01:46:00,-112:00:00
 Bug,Entregue,Claro - Hub de Aparelhos,21/09/2024,23:48,
@@ -1302,8 +1276,6 @@ Bug,Entregue,Solução em Focco,18/09/2024,-01:57:00,-34:00:00
 Bug,Entregue,Solução em Focco,18/09/2024,-01:57:00,-135:09:00
 Bug,Entregue,Solução em Focco,18/09/2024,-01:58:00,-34:05:00
 New Feature,Entregue,Sintesc,17/09/2024,-01:37:00,
-HelpDesk Support,Resolvido,Sintesc,17/09/2024,-02:21:00,05:18
-HelpDesk Support,Resolvido,Sintesc,16/09/2024,-19:27:00,-05:07:00
 Bug,Entregue,Mais Alívio,16/09/2024,-13:03:00,10:36
 Bug,Entregue,Mais Alívio,16/09/2024,-05:05:00,18:34
 Bug,Entregue,Mais Alívio,16/09/2024,-109:54:00,-86:14:00
@@ -1311,26 +1283,14 @@ Bug,Entregue,Mais Alívio,16/09/2024,-37:29:00,-13:49:00
 Bug,Entregue,Sintesc,13/09/2024,-96:07:00,-72:27:00
 Bug,Entregue,Claro - Hub de Aparelhos,13/09/2024,23:52,
 Bug,Entregue,Claro - Hub de Aparelhos,12/09/2024,23:25,
-HelpDesk Support,Resolvido,Jaguar Mining,12/09/2024,23:29,
 New Feature,Entregue,Sintesc,12/09/2024,23:46,
-HelpDesk Support,Resolvido,Jaguar Mining,12/09/2024,23:10,
-HelpDesk Support,Resolvido,Jaguar Mining,12/09/2024,23:46,
 Bug,Entregue,Pro Labore,11/09/2024,21:43,-32:00:00
 Bug,Entregue,Jaguar Mining,11/09/2024,-15:13:00,08:26
 Bug,Entregue,Jade Autism,11/09/2024,21:02,-104:38:00
-HelpDesk Support,Resolvido,Visione,11/09/2024,19:58,-154:20:00
-HelpDesk Support,Resolvido,Visione,11/09/2024,19:57,-154:23:00
-HelpDesk Support,Resolvido,Visione,11/09/2024,19:57,-154:24:00
-HelpDesk Support,Resolvido,Visione,11/09/2024,19:57,-154:29:00
 New Feature,Entregue,Claro - Hub de Aparelhos,11/09/2024,23:50,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,10/09/2024,-00:43:00,22:56
 Bug,Entregue,Jade Autism,10/09/2024,-16:24:00,07:15
-HelpDesk Support,Resolvido,Jaguar Mining,10/09/2024,17:18,
-HelpDesk Support,Resolvido,Jaguar Mining,09/09/2024,-09:24:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,09/09/2024,-100:41:00,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,06/09/2024,00:03,-175:33:00
 Bug,Entregue,Claro - Hub de Aparelhos,06/09/2024,23:19,
-HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,06/09/2024,23:57,
 Bug,Entregue,Solução em Focco,06/09/2024,-00:17:00,02:23
 Bug,Entregue,Solução em Focco,06/09/2024,-00:17:00,-27:26:00
 Bug,Entregue,Solução em Focco,06/09/2024,-00:15:00,05:56
@@ -1343,18 +1303,11 @@ Bug,Entregue,Solução em Focco,06/09/2024,-00:12:00,-27:31:00
 Bug,Entregue,Solução em Focco,06/09/2024,-00:11:00,-27:32:00
 Bug,Entregue,Visione,05/09/2024,00:10,-209:29:00
 Bug,Entregue,Visione,05/09/2024,00:17,-209:34:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,05/09/2024,-00:23:00,-00:24:00
-HelpDesk Support,Resolvido,Jaguar Mining,05/09/2024,22:46,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,04/09/2024,-07:11:00,-12:59:00
 Bug,Entregue,Claro - Hub de Aparelhos,03/09/2024,-00:32:00,-14:09:00
 Bug,Entregue,Claro - Hub de Aparelhos,02/09/2024,23:41,
 Bug,Entregue,Pro Labore,30/08/2024,23:28,-120:31:00
 Bug,Entregue,Claro - Hub de Aparelhos,30/08/2024,23:31,-16:01:00
-HelpDesk Support,Resolvido,Jaguar Mining,29/08/2024,23:50,
 Bug,Entregue,Claro - Hub de Aparelhos,29/08/2024,23:44,
-HelpDesk Support,Resolvido,Jaguar Mining,29/08/2024,23:11,
-HelpDesk Support,Resolvido,Jaguar Mining,28/08/2024,22:59,
-HelpDesk Support,Resolvido,Pro Labore,28/08/2024,23:32,-36:48:00
 New Feature,Entregue,Claro - Hub de Aparelhos,28/08/2024,23:54,
 Bug,Entregue,Claro - Hub de Aparelhos,27/08/2024,22:59,
 Bug,Entregue,Pro Labore,26/08/2024,00:17,17:17
@@ -1363,25 +1316,18 @@ Bug,Entregue,Claro - Hub de Aparelhos,23/08/2024,21:42,09:09
 Bug,Entregue,Sintesc,20/08/2024,-02:04:00,-61:46:00
 Bug,Entregue,Sintesc,19/08/2024,-01:23:00,-15:41:00
 Bug,Entregue,Sintesc,19/08/2024,-01:25:00,-15:13:00
-HelpDesk Support,Resolvido,Pro Labore,19/08/2024,22:23,43:33:00
 Bug,Entregue,Pro Labore,19/08/2024,-01:40:00,19:18
 New Feature,Entregue,Pro Labore,19/08/2024,19:41,
 Bug,Entregue,Claro - Hub de Aparelhos,12/08/2024,-26:13:00,-02:33:00
-HelpDesk Support,Resolvido,Sintesc,12/08/2024,00:02,08:19
-HelpDesk Support,Cancelado,Sintesc,12/08/2024,00:17,23:57
-HelpDesk Support,Cancelado,Sintesc,12/08/2024,00:16,23:46
 Bug,Entregue,Claro - Hub de Aparelhos,07/08/2024,23:10,
 Bug,Entregue,Claro - Hub de Aparelhos,07/08/2024,23:02,
-HelpDesk Support,Resolvido,Pro Labore,06/08/2024,23:21,-57:08:00
 Bug,Entregue,Claro - Hub de Aparelhos,06/08/2024,19:05,
-HelpDesk Support,Resolvido,Sintesc,05/08/2024,18:32,-38:47:00
 Bug,Entregue,Claro - Hub de Aparelhos,30/07/2024,23:49,
 Bug,Entregue,Claro - Hub de Aparelhos,26/07/2024,-00:26:00,-89:02:00
 Bug,Entregue,Mais Alívio,26/07/2024,00:08,23:06
 Bug,Entregue,Claro - Hub de Aparelhos,25/07/2024,00:20,24:00:00
 Bug,Entregue,Mais Alívio,25/07/2024,-01:49:00,-241:19:00
 New Feature,Entregue,Mais Alívio,25/07/2024,-02:00:00,
-HelpDesk Support,Resolvido,Mais Alívio,24/07/2024,00:20,04:00
 New Feature,Entregue,Mais Alívio,24/07/2024,-00:22:00,
 Bug,Entregue,Mais Alívio,24/07/2024,-00:31:00,-352:55:00
 Bug,Entregue,Mais Alívio,24/07/2024,-00:39:00,-730:56:00
@@ -1393,16 +1339,12 @@ Bug,Entregue,Sintesc,24/07/2024,-03:03:00,-03:43:00
 Bug,Entregue,Sintesc,24/07/2024,-04:25:00,-05:07:00
 Bug,Entregue,Sintesc,24/07/2024,-04:45:00,-05:30:00
 Bug,Entregue,Jade Autism,23/07/2024,-00:18:00,21:24
-HelpDesk Support,Resolvido,Sintesc,22/07/2024,-00:32:00,22:11
 Bug,Entregue,Sintesc,19/07/2024,-08:02:00,-24:22:00
 New Feature,Entregue,Claro - Hub de Aparelhos,18/07/2024,23:02,
 Bug,Entregue,Sintesc,17/07/2024,23:16,-1515:41:00
 New Feature,Entregue,Claro - Hub de Aparelhos,15/07/2024,22:54,
 Bug,Entregue,Claro - Hub de Aparelhos,15/07/2024,-01:20:00,22:19
-HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,11/07/2024,00:01,-62:07:00
 New Feature,Entregue,Claro - Hub de Aparelhos,11/07/2024,-64:41:00,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,09/07/2024,23:30,14:54
-HelpDesk Support,Resolvido,Pro Labore,05/07/2024,22:09,
 New Feature,Entregue,Pro Labore,05/07/2024,22:01,
 Bug,Entregue,Sintesc,05/07/2024,00:10,-99:54:00
 Bug,Entregue,Sintesc,04/07/2024,00:04,-102:24:00
@@ -1411,13 +1353,10 @@ Bug,Entregue,Sintesc,03/07/2024,-136:10:00,-112:30:00
 Bug,Entregue,Pro Labore,02/07/2024,00:20,-00:31:00
 Bug,Entregue,Claro - Hub de Aparelhos,27/06/2024,23:51,
 Bug,Entregue,Jade Autism,27/06/2024,-00:01:00,-1145:21:00
-HelpDesk Support,Resolvido,Sintesc,26/06/2024,21:52,37:47:00
 New Feature,Entregue,Sintesc,24/06/2024,19:48,
 New Feature,Entregue,Sintesc,24/06/2024,00:15,
 Bug,Entregue,Claro - Hub de Aparelhos,21/06/2024,-107:29:00,-83:49:00
 Bug,Entregue,Claro - Hub de Aparelhos,20/06/2024,00:20,21:56
-HelpDesk Support,Resolvido,Sintesc,20/06/2024,00:20,-177:08:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,20/06/2024,21:56,-63:57:00
 Bug,Entregue,Claro - Hub de Aparelhos,20/06/2024,-04:54:00,-91:13:00
 New Feature,Entregue,Claro - Hub de Aparelhos,20/06/2024,-07:41:00,
 Bug,Entregue,Sintesc,19/06/2024,-01:38:00,-81:46:00
@@ -1425,15 +1364,10 @@ Bug,Entregue,Sintesc,19/06/2024,00:08,-45:26:00
 Bug,Entregue,Claro - Hub de Aparelhos,19/06/2024,-00:10:00,18:43
 New Feature,Entregue,Sintesc,17/06/2024,00:01,
 New Feature,Entregue,Claro - Hub de Aparelhos,14/06/2024,23:44,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,22:38,14:54
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,13:11,-11:28:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,14:24,-11:41:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,14/06/2024,-11:08:00,12:51
 New Feature,Entregue,Claro - Hub de Aparelhos,14/06/2024,-36:04:00,
 Bug,Entregue,Pro Labore,13/06/2024,-80:28:00,-80:48:00
 New Feature,Entregue,Claro - Hub de Aparelhos,13/06/2024,23:46,
 Bug,Entregue,Sintesc,11/06/2024,00:03,20:25
-HelpDesk Support,Resolvido,Sintesc,10/06/2024,-05:56:00,07:12
 Bug,Entregue,Claro - Hub de Aparelhos,10/06/2024,-09:22:00,-238:03:00
 Bug,Entregue,Sintesc,10/06/2024,-09:59:00,-47:03:00
 Bug,Entregue,Sintesc,07/06/2024,00:16,-19:40:00
@@ -1458,22 +1392,16 @@ Bug,Entregue,Claro - Hub de Aparelhos,23/05/2024,-00:28:00,-84:57:00
 Bug,Entregue,Visione,23/05/2024,00:16,-14:41:00
 New Feature,Entregue,Jade Autism,23/05/2024,23:56,
 Bug,Entregue,Visione,23/05/2024,00:12,-14:55:00
-HelpDesk Support,Resolvido,Sintesc,23/05/2024,23:16,38:41:00
 Bug,Entregue,Claro - Hub de Aparelhos,21/05/2024,-07:40:00,-08:00:00
 Bug,Entregue,Sintesc,21/05/2024,-00:05:00,22:19
 Bug,Entregue,Jade Autism,21/05/2024,-00:24:00,-150:50:00
-HelpDesk Support,Resolvido,Sintesc,17/05/2024,23:51,26:41:00
-HelpDesk Support,Resolvido,Sintesc,15/05/2024,22:26,-04:54:00
 New Feature,Entregue,Sintesc,14/05/2024,20:54,
 Bug,Entregue,Claro - Hub de Aparelhos,10/05/2024,-00:09:00,18:27
 Bug,Entregue,Solução em Focco,10/05/2024,00:20,-290:38:00
-HelpDesk Support,Resolvido,Sintesc,09/05/2024,-03:05:00,00:45
 Bug,Entregue,Solução em Focco,09/05/2024,-00:25:00,-288:00:00
 Bug,Entregue,Sintesc,07/05/2024,-07:39:00,-04:56:00
 Bug,Entregue,Claro - Hub de Aparelhos,06/05/2024,-36:27:00,-12:47:00
 Bug,Entregue,Claro - Hub de Aparelhos,03/05/2024,00:18,-06:23:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,02/05/2024,-04:11:00,19:28
-New Feature,Pendente,Sintesc,30/04/2024,13:45,
 New Feature,Entregue,Sintesc,30/04/2024,13:34,
 New Feature,Entregue,Sintesc,30/04/2024,21:19,
 New Feature,Entregue,Sintesc,30/04/2024,13:03,
@@ -1537,7 +1465,6 @@ New Feature,Entregue,Claro - Hub de Aparelhos,25/04/2024,14:43,
 New Feature,Entregue,Claro - Hub de Aparelhos,25/04/2024,-47:10:00,
 Bug,Entregue,Claro - Hub de Aparelhos,25/04/2024,-07:40:00,-13:57:00
 New Feature,Entregue,Claro - Hub de Aparelhos,25/04/2024,03:03,
-HelpDesk Support,Resolvido,Sintesc,25/04/2024,23:16,46:34:00
 New Feature,Entregue,Claro - Hub de Aparelhos,23/04/2024,23:37,
 Bug,Entregue,Jade Autism,23/04/2024,-15:55:00,07:44
 New Feature,Entregue,Jade Autism,23/04/2024,-00:01:00,
@@ -1545,7 +1472,6 @@ Bug,Entregue,Jade Autism,22/04/2024,00:07,-02:36:00
 New Feature,Entregue,Claro - Hub de Aparelhos,22/04/2024,-14:42:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,22/04/2024,-269:39:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,22/04/2024,-14:49:00,
-HelpDesk Support,Resolvido,Sintesc,21/04/2024,24:00:00,-02:46:00
 New Feature,Entregue,Claro - Hub de Aparelhos,19/04/2024,17:58,
 Bug,Entregue,Sintesc,19/04/2024,-06:30:00,-07:55:00
 Bug,Entregue,Claro - Hub de Aparelhos,18/04/2024,-201:46:00,-178:06:00
@@ -1569,42 +1495,35 @@ Bug,Entregue,Sintesc,15/04/2024,-00:14:00,23:25
 Bug,Entregue,Sintesc,15/04/2024,-02:31:00,21:08
 Bug,Entregue,Sintesc,11/04/2024,-07:21:00,-15:21:00
 Bug,Entregue,Pro Labore,09/04/2024,24:00:00,-08:00:00
-HelpDesk Support,Resolvido,Pro Labore,09/04/2024,-00:05:00,-215:43:00
 Bug,Entregue,B20,08/04/2024,-02:28:00,-100:04:00
 New Feature,Entregue,Sintesc,08/04/2024,22:50,
 Bug,Entregue,Claro - Hub de Aparelhos,05/04/2024,-64:02:00,-60:15:00
-HelpDesk Support,Resolvido,Sintesc,04/04/2024,-01:38:00,19:33
 New Feature,Entregue,Jade Autism,03/04/2024,00:19,
 Bug,Entregue,Pro Labore,03/04/2024,-01:17:00,-15:33:00
 New Feature,Entregue,Pro Labore,03/04/2024,23:46,
 Bug,Entregue,Sintesc,03/04/2024,-00:11:00,02:21
 Bug,Entregue,Sintesc,01/04/2024,-01:04:00,-08:17:00
-Bug,Entregue,Sintesc,27/03/2024,-02:42:00,18:15
-Bug,Entregue,B20,25/03/2024,-00:22:00,-07:19:00
-Bug,Entregue,B20,24/03/2024,-00:04:00,-83:07:00
-Bug,Entregue,B20,21/03/2024,-03:28:00,-08:38:00
-HelpDesk Support,Resolvido,Sintesc,20/03/2024,21:15,43:39:00
-Bug,Entregue,Sintesc,20/03/2024,-04:06:00,19:33
-HelpDesk Support,Resolvido,Pro Labore,17/03/2024,22:39,40:00:00
-Bug,Entregue,B20,17/03/2024,-00:02:00,-14:09:00
-Bug,Entregue,Jade Autism,17/03/2024,00:20,16:00
-Bug,Entregue,Pro Labore,17/03/2024,00:02,-00:56:00
-Bug,Entregue,Claro - Hub de Aparelhos,17/03/2024,-00:26:00,-22:54:00
-Bug,Entregue,Sintesc,15/03/2024,00:20,02:50
-New Feature,Entregue,Sintesc,13/03/2024,-18:49:00,
-New Feature,Entregue,Sintesc,13/03/2024,03:23,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,12/03/2024,-18:56:00,-30:15:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,12/03/2024,-21:00:00,-31:37:00
-Bug,Entregue,Pro Labore,11/03/2024,-28:30:00,-08:26:00
-Bug,Entregue,Pro Labore,10/03/2024,-23:57:00,-00:18:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,07/03/2024,00:00,-189:10:00
-New Feature,Entregue,Sintesc,06/03/2024,-28:35:00,
-Bug,Entregue,Sintesc,06/03/2024,-50:08:00,-26:28:00
-Bug,Entregue,Sintesc,05/03/2024,-58:10:00,-34:30:00
-Bug,Entregue,Sintesc,05/03/2024,-58:13:00,-34:33:00
-Bug,Entregue,Sintesc,05/03/2024,-58:20:00,-34:40:00
-New Feature,Entregue,Sintesc,05/03/2024,-37:07:00,
-Bug,Entregue,Claro - Hub de Aparelhos,03/03/2024,-00:58:00,22:41
+Bug,Entregue,Sintesc,28/03/2024,-02:42:00,18:15
+Bug,Entregue,B20,26/03/2024,-00:22:00,-07:19:00
+Bug,Entregue,B20,25/03/2024,-00:04:00,-83:07:00
+Bug,Entregue,B20,22/03/2024,-03:28:00,-08:38:00
+Bug,Entregue,Sintesc,21/03/2024,-04:06:00,19:33
+Bug,Entregue,B20,18/03/2024,-00:02:00,-14:09:00
+Bug,Entregue,Jade Autism,18/03/2024,00:20,16:00
+Bug,Entregue,Pro Labore,18/03/2024,00:02,-00:56:00
+Bug,Entregue,Claro - Hub de Aparelhos,18/03/2024,-00:26:00,-22:54:00
+Bug,Entregue,Sintesc,16/03/2024,00:20,02:50
+New Feature,Entregue,Sintesc,14/03/2024,-18:49:00,
+New Feature,Entregue,Sintesc,14/03/2024,03:23,
+Bug,Entregue,Pro Labore,12/03/2024,-28:30:00,-08:26:00
+Bug,Entregue,Pro Labore,11/03/2024,-23:57:00,-00:18:00
+New Feature,Entregue,Sintesc,07/03/2024,-28:35:00,
+Bug,Entregue,Sintesc,07/03/2024,-50:08:00,-26:28:00
+Bug,Entregue,Sintesc,06/03/2024,-58:10:00,-34:30:00
+Bug,Entregue,Sintesc,06/03/2024,-58:13:00,-34:33:00
+Bug,Entregue,Sintesc,06/03/2024,-58:20:00,-34:40:00
+New Feature,Entregue,Sintesc,06/03/2024,-37:07:00,
+Bug,Entregue,Claro - Hub de Aparelhos,04/03/2024,-00:58:00,22:41
 Bug,Entregue,Pro Labore,27/02/2024,00:20,-67:01:00
 Bug,Entregue,Claro - Hub de Aparelhos,26/02/2024,-17:42:00,05:57
 Bug,Entregue,Pro Labore,23/02/2024,-16:47:00,06:52
@@ -1612,16 +1531,11 @@ New Feature,Entregue,Pro Labore,22/02/2024,-111:44:00,
 Bug,Entregue,Solução em Focco,21/02/2024,-139:07:00,-115:27:00
 Bug,Entregue,Sintesc,21/02/2024,-33:24:00,-15:06:00
 Bug,Entregue,Claro - Hub de Aparelhos,20/02/2024,-37:43:00,-56:09:00
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/02/2024,15:19,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/02/2024,15:17,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,19/02/2024,15:10,
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,16/02/2024,-164:34:00,-175:22:00
 New Feature,Entregue,Sintesc,15/02/2024,-148:56:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,08/02/2024,21:58,
 New Feature,Entregue,Claro - Hub de Aparelhos,08/02/2024,-187:25:00,
 Bug,Entregue,Claro - Hub de Aparelhos,08/02/2024,21:50,-31:11:00
 Bug,Entregue,Claro - Hub de Aparelhos,08/02/2024,-01:15:00,06:05
-HelpDesk Support,Resolvido,Claro - Hub de Aparelhos,08/02/2024,-211:04:00,-387:51:00
 New Feature,Entregue,Claro - Hub de Aparelhos,08/02/2024,-115:00:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,08/02/2024,-187:18:00,
 New Feature,Entregue,Claro - Hub de Aparelhos,08/02/2024,-186:51:00,
@@ -1632,50 +1546,47 @@ Bug,Entregue,Claro - Hub de Aparelhos,06/02/2024,07:58,00:12
 New Feature,Entregue,Sintesc,06/02/2024,-100:39:00,
 Bug,Entregue,Solução em Focco,06/02/2024,-531:23:00,-507:43:00
 Bug,Entregue,Solução em Focco,05/02/2024,-421:05:00,-397:25:00
-Bug,Entregue,Pro Labore,30/01/2024,-41:08:00,-17:28:00
-Bug,Entregue,Sintesc,28/01/2024,07:44,23:44
-Bug,Entregue,Sintesc,24/01/2024,-04:42:00,11:17
-HelpDesk Support,Resolvido,Pro Labore,23/01/2024,-45:32:00,-29:32:00
-HelpDesk Support,Resolvido,B20,19/01/2024,-95:40:00,-72:00:00
-Bug,Entregue,B20,18/01/2024,-80:39:00,-64:39:00
-New Feature,Entregue,Sintesc,18/01/2024,-206:34:00,
-New Feature,Entregue,B20,18/01/2024,-72:01:00,
-Bug,Entregue,Pro Labore,17/01/2024,03:37,19:37
-Bug,Entregue,Pro Labore,17/01/2024,-26:30:00,-10:30:00
-Bug,Entregue,B20,16/01/2024,-96:28:00,-80:28:00
-Bug,Entregue,B20,16/01/2024,-22:19:00,-06:19:00
-Bug,Entregue,B20,16/01/2024,-22:19:00,-06:19:00
-Bug,Entregue,Sintesc,16/01/2024,-34:43:00,-18:43:00
-Bug,Entregue,Sintesc,16/01/2024,-35:11:00,-19:11:00
-New Feature,Entregue,JM Contas,15/01/2024,-221:52:00,
-Bug,Entregue,Pro Labore,14/01/2024,05:27,21:27
-Bug,Entregue,Sintesc,14/01/2024,-24:00:00,-08:00:00
-Bug,Entregue,Pro Labore,11/01/2024,07:35,23:35
-Bug,Entregue,B20,11/01/2024,-29:49:00,-13:49:00
-Bug,Entregue,Bulbe,10/01/2024,02:34,18:34
-Bug,Entregue,Pro Labore,09/01/2024,-08:40:00,07:19
-HelpDesk Support,Resolvido,Visione,09/01/2024,-246:22:00,-222:22:00
-Bug,Entregue,Visione,08/01/2024,-272:58:00,-249:18:00
-New Feature,Entregue,Visione,08/01/2024,-364:19:00,
-Bug,Entregue,Visione,08/01/2024,-272:58:00,-249:18:00
-Bug,Entregue,Visione,08/01/2024,-272:59:00,-249:19:00
-New Feature,Entregue,Visione,08/01/2024,-249:20:00,
-New Feature,Entregue,Visione,08/01/2024,-249:20:00,
-New Feature,Entregue,Visione,08/01/2024,-249:19:00,
-New Feature,Entregue,Visione,08/01/2024,-249:19:00,
-New Feature,Entregue,Visione,08/01/2024,-249:19:00,
-New Feature,Entregue,Visione,08/01/2024,-249:20:00,
-Bug,Entregue,Bulbe,08/01/2024,00:34,-15:03:00
-Bug,Entregue,Pro Labore,07/01/2024,-31:05:00,-15:05:00
-New Feature,Entregue,Pro Labore,07/01/2024,-29:26:00,-13:26:00
-Bug,Entregue,B20,05/01/2024,-61:48:00,-45:48:00
-Bug,Entregue,Sintesc,03/01/2024,-64:00:00,-48:00:00
-Bug,Entregue,Sintesc,02/01/2024,-89:18:00,-73:18:00
-New Feature,Entregue,Pro Labore,01/01/2024,00:03,16:03
-Bug,Entregue,JM Contas,01/01/2024,-79:25:00,-63:25:00
-Bug,Entregue,JM Contas,01/01/2024,-36:56:00,-20:56:00
-Bug,Entregue,JM Contas,01/01/2024,-36:57:00,-20:57:00
-Bug,Entregue,JM Contas,01/01/2024,-37:01:00,-21:01:00
+Bug,Entregue,Pro Labore,31/01/2024,-41:08:00,-17:28:00
+Bug,Entregue,Sintesc,29/01/2024,07:44,23:44
+Bug,Entregue,Sintesc,25/01/2024,-04:42:00,11:17
+Bug,Entregue,B20,19/01/2024,-80:39:00,-64:39:00
+New Feature,Entregue,Sintesc,19/01/2024,-206:34:00,
+New Feature,Entregue,B20,19/01/2024,-72:01:00,
+Bug,Entregue,Pro Labore,18/01/2024,03:37,19:37
+Bug,Entregue,Pro Labore,18/01/2024,-26:30:00,-10:30:00
+Bug,Entregue,B20,17/01/2024,-96:28:00,-80:28:00
+Bug,Entregue,B20,17/01/2024,-22:19:00,-06:19:00
+Bug,Entregue,B20,17/01/2024,-22:19:00,-06:19:00
+Bug,Entregue,Sintesc,17/01/2024,-34:43:00,-18:43:00
+Bug,Entregue,Sintesc,17/01/2024,-35:11:00,-19:11:00
+New Feature,Entregue,JM Contas,16/01/2024,-221:52:00,
+Bug,Entregue,Pro Labore,15/01/2024,05:27,21:27
+Bug,Entregue,Sintesc,15/01/2024,-24:00:00,-08:00:00
+Bug,Entregue,Pro Labore,12/01/2024,07:35,23:35
+Bug,Entregue,B20,12/01/2024,-29:49:00,-13:49:00
+Bug,Entregue,Bulbe,11/01/2024,02:34,18:34
+Bug,Entregue,Pro Labore,10/01/2024,-08:40:00,07:19
+Bug,Entregue,Visione,09/01/2024,-272:58:00,-249:18:00
+New Feature,Entregue,Visione,09/01/2024,-364:19:00,
+Bug,Entregue,Visione,09/01/2024,-272:58:00,-249:18:00
+Bug,Entregue,Visione,09/01/2024,-272:59:00,-249:19:00
+New Feature,Entregue,Visione,09/01/2024,-249:20:00,
+New Feature,Entregue,Visione,09/01/2024,-249:20:00,
+New Feature,Entregue,Visione,09/01/2024,-249:19:00,
+New Feature,Entregue,Visione,09/01/2024,-249:19:00,
+New Feature,Entregue,Visione,09/01/2024,-249:19:00,
+New Feature,Entregue,Visione,09/01/2024,-249:20:00,
+Bug,Entregue,Bulbe,09/01/2024,00:34,-15:03:00
+Bug,Entregue,Pro Labore,08/01/2024,-31:05:00,-15:05:00
+New Feature,Entregue,Pro Labore,08/01/2024,-29:26:00,-13:26:00
+Bug,Entregue,B20,06/01/2024,-61:48:00,-45:48:00
+Bug,Entregue,Sintesc,04/01/2024,-64:00:00,-48:00:00
+Bug,Entregue,Sintesc,03/01/2024,-89:18:00,-73:18:00
+New Feature,Entregue,Pro Labore,02/01/2024,00:03,16:03
+Bug,Entregue,JM Contas,02/01/2024,-79:25:00,-63:25:00
+Bug,Entregue,JM Contas,02/01/2024,-36:56:00,-20:56:00
+Bug,Entregue,JM Contas,02/01/2024,-36:57:00,-20:57:00
+Bug,Entregue,JM Contas,02/01/2024,-37:01:00,-21:01:00
 New Feature,Entregue,Sintesc,30/12/2023,-420:24:00,
 Bug,Entregue,JM Contas,27/12/2023,-67:06:00,-51:06:00
 Bug,Entregue,JM Contas,27/12/2023,-67:09:00,-51:09:00
@@ -1699,7 +1610,6 @@ New Feature,Entregue,Solução em Focco,30/11/2023,-242:16:00,-226:16:00
 New Feature,Entregue,Solução em Focco,30/11/2023,-242:20:00,-226:20:00
 Bug,Entregue,Solução em Focco,30/11/2023,-18:23:00,-02:23:00
 Bug,Entregue,Sintesc,29/11/2023,-62:42:00,-46:42:00
-HelpDesk Support,Resolvido,Sintesc,28/11/2023,-95:34:00,-79:34:00
 Bug,Entregue,Pro Labore,27/11/2023,-24:00:00,-71:51:00
 Bug,Entregue,Pro Labore,24/11/2023,-83:06:00,-67:06:00
 Bug,Entregue,Sintesc,23/11/2023,-45:50:00,-29:50:00
@@ -1709,8 +1619,6 @@ Bug,Entregue,Sintesc,10/11/2023,-29:20:00,-13:20:00
 New Feature,Entregue,Pro Labore,08/11/2023,-62:40:00,-46:40:00
 New Feature,Entregue,Sintesc,03/11/2023,07:56,23:56
 Bug,Entregue,SST BOT,03/11/2023,-39:14:00,-23:14:00
-HelpDesk Support,Resolvido,Sintesc,02/11/2023,-24:00:00,-08:00:00
-HelpDesk Support,Resolvido,Pro Labore,01/11/2023,-15:58:00,00:01
 Bug,Entregue,PedeQueVem!,31/10/2023,-43:39:00,-27:39:00
 Bug,Entregue,SST BOT,30/10/2023,06:20,22:20
 Bug,Entregue,Sintesc,30/10/2023,-06:47:00,09:12
@@ -1720,7 +1628,6 @@ Bug,Entregue,PedeQueVem!,25/10/2023,-22:20:00,-06:20:00
 Bug,Entregue,PedeQueVem!,25/10/2023,-22:25:00,-06:25:00
 Bug,Entregue,PedeQueVem!,23/10/2023,-21:13:00,-05:13:00
 Bug,Entregue,PedeQueVem!,23/10/2023,-21:14:00,-05:14:00
-HelpDesk Support,Resolvido,PedeQueVem!,23/10/2023,-21:33:00,-584:36:00
 Bug,Entregue,PedeQueVem!,23/10/2023,-21:15:00,-05:16:00
 Bug,Entregue,Sintesc,21/10/2023,-23:55:00,-07:55:00
 New Feature,Entregue,PedeQueVem!,21/10/2023,-96:35:00,-80:35:00
@@ -1730,10 +1637,7 @@ Bug,Entregue,Pro Labore,20/10/2023,-23:24:00,-07:24:00
 Bug,Entregue,SST BOT,19/10/2023,07:56,09:19
 Bug,Entregue,PedeQueVem!,18/10/2023,-38:39:00,-22:39:00
 New Feature,Entregue,PedeQueVem!,18/10/2023,04:04,-96:53:00
-HelpDesk Support,Resolvido,Sintesc,18/10/2023,-03:53:00,12:06
 Bug,Entregue,PedeQueVem!,18/10/2023,-21:23:00,-05:24:00
-HelpDesk Support,Resolvido,PedeQueVem!,18/10/2023,-00:47:00,-608:33:00
-HelpDesk Support,Resolvido,Sintesc,17/10/2023,-05:52:00,10:07
 Bug,Entregue,Sintesc,17/10/2023,07:08,23:08
 Bug,Entregue,Pro Labore,17/10/2023,-08:39:00,07:20
 New Feature,Entregue,PedeQueVem!,17/10/2023,-47:02:00,-204:57:00
@@ -1745,7 +1649,6 @@ Bug,Entregue,PedeQueVem!,14/10/2023,-37:29:00,-21:29:00
 Bug,Entregue,PedeQueVem!,14/10/2023,-61:24:00,-45:24:00
 New Feature,Entregue,PedeQueVem!,14/10/2023,04:02,-120:35:00
 Bug,Entregue,PedeQueVem!,14/10/2023,-61:24:00,-45:24:00
-HelpDesk Support,Resolvido,Pro Labore,13/10/2023,06:17,22:17
 Bug,Entregue,PedeQueVem!,13/10/2023,-39:22:00,-23:22:00
 Bug,Entregue,PedeQueVem!,13/10/2023,-39:28:00,-23:28:00
 Bug,Entregue,PedeQueVem!,13/10/2023,-39:48:00,-23:48:00
@@ -1753,59 +1656,37 @@ Bug,Entregue,PedeQueVem!,13/10/2023,-40:02:00,-24:02:00
 New Feature,Entregue,PedeQueVem!,13/10/2023,-19:06:00,-258:40:00
 Bug,Entregue,Sintesc,13/10/2023,-13:50:00,02:09
 Bug,Entregue,Sintesc,11/10/2023,-13:28:00,02:31
-HelpDesk Support,Resolvido,Bulbe,11/10/2023,-22:35:00,-06:35:00
 Bug,Entregue,Sintesc,10/10/2023,-01:42:00,14:17
 New Feature,Entregue,Bulbe,10/10/2023,07:34,-166:25:00
-HelpDesk Support,Resolvido,Pro Labore,09/10/2023,05:54,21:54
-HelpDesk Support,Resolvido,Bulbe,06/10/2023,-02:35:00,13:24
 Bug,Entregue,Sintesc,04/10/2023,-00:36:00,15:23
 Bug,Entregue,Bulbe,04/10/2023,00:35,16:35
-HelpDesk Support,Resolvido,Bulbe,04/10/2023,-01:47:00,14:12
 Bug,Entregue,Bulbe,04/10/2023,-23:13:00,-14:30:00
-HelpDesk Support,Resolvido,Bulbe,03/10/2023,06:15,22:15
-HelpDesk Support,Resolvido,Bulbe,28/09/2023,06:30,22:30
 New Feature,Entregue,Pro Labore,26/09/2023,-64:46:00,-48:46:00
 Bug,Entregue,Bulbe,26/09/2023,-36:26:00,-20:26:00
 New Feature,Entregue,Pro Labore,25/09/2023,-128:27:00,-112:27:00
 New Feature,Entregue,Sintesc,25/09/2023,-977:59:00,
-HelpDesk Support,Resolvido,Bulbe,25/09/2023,-00:11:00,15:48
 Bug,Entregue,Sintesc,22/09/2023,-08:52:00,07:07
-HelpDesk Support,Resolvido,Bulbe,22/09/2023,06:34,22:34
 Bug,Entregue,Bulbe,21/09/2023,03:58,19:58
 New Feature,Entregue,Bulbe,21/09/2023,-70:09:00,-54:09:00
 Bug,Entregue,Pro Labore,21/09/2023,04:09,20:09
-HelpDesk Support,Resolvido,Bulbe,20/09/2023,02:41,18:41
-HelpDesk Support,Resolvido,Pro Labore,19/09/2023,05:24,21:24
-HelpDesk Support,Resolvido,Bulbe,18/09/2023,07:13,23:13
 Bug,Entregue,Pro Labore,15/09/2023,-15:20:00,00:39
 Bug,Entregue,Sintesc,14/09/2023,-05:22:00,10:37
 New Feature,Entregue,Sintesc,13/09/2023,-215:02:00,-199:02:00
 Bug,Entregue,Bulbe,13/09/2023,05:55,21:55
-HelpDesk Support,Resolvido,Bulbe,13/09/2023,06:11,22:11
-HelpDesk Support,Resolvido,Bulbe,13/09/2023,05:25,21:25
-HelpDesk Support,Resolvido,Bulbe,13/09/2023,06:13,22:13
 Bug,Entregue,Sintesc,12/09/2023,08:00,24:00:00
-HelpDesk Support,Resolvido,Bulbe,12/09/2023,05:33,21:33
-HelpDesk Support,Resolvido,Bulbe,12/09/2023,07:05,23:05
 Bug,Entregue,Sintesc,12/09/2023,-18:21:00,-02:21:00
 Bug,Entregue,Sintesc,12/09/2023,01:39,17:39
-HelpDesk Support,Resolvido,Bulbe,11/09/2023,-00:40:00,15:19
-HelpDesk Support,Resolvido,Bulbe,08/09/2023,07:05,23:05
 New Feature,Entregue,Sintesc,08/09/2023,-651:23:00,-635:23:00
-HelpDesk Support,Cancelado,Pro Labore,06/09/2023,-18:18:00,-192:27:00
 Bug,Entregue,Pro Labore,06/09/2023,-03:20:00,12:39
-HelpDesk Support,Resolvido,Bulbe,05/09/2023,07:34,18:12
 Bug,Entregue,Bulbe,05/09/2023,07:05,16:59
 Bug,Entregue,Bulbe,05/09/2023,06:30,16:22
 Bug,Entregue,Sintesc,05/09/2023,-52:34:00,-36:34:00
-HelpDesk Support,Resolvido,Bulbe,04/09/2023,07:28,15:28
 Bug,Entregue,Bulbe,04/09/2023,04:18,20:18
 Bug,Entregue,Bulbe,04/09/2023,03:25,19:25
 New Feature,Entregue,Claro - Hub de Aparelhos,01/09/2023,-50:31:00,-34:31:00
 New Feature,Entregue,Sintesc,30/08/2023,-1117:13:00,
 Bug,Entregue,Bulbe,28/08/2023,-00:02:00,15:57
 Bug,Entregue,Bulbe,28/08/2023,06:43,-02:23:00
-HelpDesk Support,Resolvido,Sintesc,28/08/2023,04:08,00:08
 Bug,Entregue,Sintesc,24/08/2023,06:39,22:39
 Bug,Entregue,Bulbe,24/08/2023,01:53,17:53
 Bug,Entregue,Bulbe,23/08/2023,-04:40:00,23:17
@@ -1820,24 +1701,19 @@ New Feature,Entregue,Bulbe,16/08/2023,-36:49:00,-20:49:00
 Bug,Entregue,SST Shark,15/08/2023,-24:00:00,-08:00:00
 New Feature,Entregue,Sintesc,14/08/2023,-1121:30:00,
 New Feature,Entregue,Sintesc,14/08/2023,-1215:28:00,
-New Feature,Pendente,Sintesc,14/08/2023,-1217:34:00,
 Bug,Entregue,Sintesc,11/08/2023,-06:05:00,09:54
 New Feature,Entregue,Sintesc,10/08/2023,-32:47:00,-16:47:00
 Bug,Entregue,Sintesc,05/08/2023,07:42,23:42
 New Feature,Entregue,Sintesc,05/08/2023,-208:00:00,-192:00:00
-HelpDesk Support,Resolvido,Sintesc,05/08/2023,06:35,22:35
 New Feature,Entregue,Sintesc,04/08/2023,-102:51:00,-86:51:00
 Bug,Entregue,Sintesc,31/07/2023,04:00,20:00
 New Feature,Entregue,Sintesc,28/07/2023,-16:19:00,-00:19:00
 New Feature,Entregue,Sintesc,28/07/2023,-16:20:00,-00:20:00
 New Feature,Entregue,Bulbe,28/07/2023,-60:07:00,-44:07:00
 Bug,Entregue,Claro - Hub de Aparelhos,28/07/2023,-29:30:00,-13:30:00
-HelpDesk Support,Resolvido,Bulbe,27/07/2023,02:06,18:06
 New Feature,Entregue,Sintesc,25/07/2023,-425:23:00,-409:23:00
 New Feature,Entregue,Sintesc,25/07/2023,-07:21:00,08:38
-HelpDesk Support,Resolvido,Sintesc,25/07/2023,05:31,21:31
 New Feature,Entregue,Bulbe,24/07/2023,-229:49:00,-213:49:00
-HelpDesk Support,Resolvido,Sintesc,21/07/2023,-02:11:00,13:48
 Bug,Entregue,Sintesc,23/07/2023,01:30,17:30
 New Feature,Entregue,Sintesc,23/07/2023,-16:00:00,00:00
 New Feature,Entregue,Sintesc,22/07/2023,-195:39:00,-313:31:00
@@ -1851,16 +1727,13 @@ New Feature,Entregue,Sintesc,14/07/2023,-61:00:00,-45:00:00
 New Feature,Entregue,Sintesc,14/07/2023,-72:00:00,-56:00:00
 Bug,Entregue,Sintesc,14/07/2023,-08:00:00,08:00
 Bug,Entregue,Sintesc,14/07/2023,-09:44:00,06:15
-HelpDesk Support,Resolvido,Bulbe,13/07/2023,08:00,24:00:00
 Bug,Entregue,Sintesc,13/07/2023,-02:59:00,13:00
 Bug,Entregue,Claro - Hub de Aparelhos,11/07/2023,01:20,-72:58:00
 Bug,Entregue,Bulbe,11/07/2023,07:47,07:47
 Bug,Entregue,Pro Labore,11/07/2023,01:12,-12:05:00
 Bug,Entregue,Pro Labore,11/07/2023,01:03,-14:56:00
-HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,11/07/2023,07:33,23:33
 Bug,Entregue,Bulbe,10/07/2023,-01:28:00,-01:28:00
 New Feature,Entregue,Claro - Hub de Aparelhos,07/07/2023,-08:00:00,-82:19:00
-HelpDesk Support,Resolvido,Bulbe,03/07/2023,06:42,22:42
 Bug,Entregue,Sintesc,28/06/2023,06:54,06:27
 Bug,Entregue,Sintesc,28/06/2023,04:00,20:00
 New Feature,Entregue,B20,23/06/2023,-104:00:00,-88:00:00
@@ -1872,15 +1745,10 @@ Bug,Entregue,PedeQueVem!,22/06/2023,-02:40:00,13:19
 Bug,Entregue,Bulbe,21/06/2023,07:49,15:21
 Bug,Entregue,Bulbe,20/06/2023,04:29,20:29
 Bug,Entregue,Pro Labore,19/06/2023,01:37,17:37
-HelpDesk Support,Resolvido,Bulbe,16/06/2023,05:52,21:52
-HelpDesk Support,Resolvido,Bulbe,15/06/2023,08:00,24:00:00
 Bug,Entregue,Claro - Hub de Aparelhos,15/06/2023,00:00,16:00
-HelpDesk Support,Resolvido,Sintesc,14/06/2023,-02:43:00,13:16
 New Feature,Entregue,Bulbe,14/06/2023,-06:35:00,09:24
-HelpDesk Support,Cancelado,Sintesc,14/06/2023,02:54,18:54
 New Feature,Entregue,Sintesc,13/06/2023,-248:00:00,-232:00:00
 New Feature,Entregue,B20,13/06/2023,07:50,-82:50:00
-New Feature,Pendente,Sintesc,12/06/2023,-1576:49:00,
 New Feature,Entregue,Bulbe,12/06/2023,-36:50:00,18:47
 New Feature,Entregue,Bulbe,09/06/2023,-46:24:00,-30:24:00
 Bug,Entregue,Sintesc,07/06/2023,-09:42:00,06:17
@@ -1923,7 +1791,6 @@ Bug,Entregue,Sintesc,10/05/2023,06:51,06:51
 Bug,Entregue,Sintesc,10/05/2023,05:44,21:44
 Bug,Entregue,Sintesc,09/05/2023,03:00,19:00
 Bug,Entregue,Bulbe,09/05/2023,07:01,23:01
-HelpDesk Support,Resolvido,Bulbe,09/05/2023,06:45,22:44
 Bug,Entregue,Bulbe,09/05/2023,-35:04:00,-19:04:00
 Bug,Entregue,Pro Labore,08/05/2023,-15:36:00,00:23
 Bug,Entregue,Pro Labore,08/05/2023,-32:00:00,-30:08:00
@@ -1955,7 +1822,6 @@ Bug,Entregue,Visione,24/04/2023,-16:00:00,00:00
 Bug,Entregue,Bulbe,24/04/2023,06:15,19:34
 Bug,Entregue,Visione,24/04/2023,-21:52:00,-05:52:00
 Bug,Entregue,Visione,24/04/2023,-22:01:00,-06:01:00
-HelpDesk Support,Resolvido,Bulbe,24/04/2023,05:22,21:22
 New Feature,Entregue,Claro - Hub de Aparelhos,18/04/2023,-48:00:00,-39:09:00
 Bug,Entregue,Sintesc,18/04/2023,-24:00:00,-08:00:00
 Bug,Entregue,Sintesc,18/04/2023,-32:00:00,-16:00:00
@@ -1974,7 +1840,6 @@ Bug,Entregue,Sintesc,06/04/2023,-08:14:00,07:45
 Bug,Entregue,Sintesc,05/04/2023,08:00,24:00:00
 Bug,Entregue,Sintesc,05/04/2023,02:00,18:00
 Bug,Entregue,Sintesc,05/04/2023,03:09,19:09
-HelpDesk Support,Resolvido,Bulbe,04/04/2023,05:41,21:41
 Bug,Entregue,Sintesc,03/04/2023,01:33,17:33
 Bug,Entregue,Sintesc,03/04/2023,-01:57:00,14:02
 Bug,Entregue,Sintesc,03/04/2023,-11:55:00,04:04
@@ -2003,7 +1868,6 @@ Bug,Entregue,Sintesc,24/03/2023,04:52,20:52
 New Feature,Entregue,Bulbe,23/03/2023,-89:22:00,-73:22:00
 Bug,Entregue,Sintesc,23/03/2023,-282:36:00,-274:55:00
 Bug,Entregue,Sintesc,23/03/2023,-07:55:00,08:04
-HelpDesk Support,Resolvido,Bulbe,22/03/2023,07:38,23:38
 New Feature,Entregue,Bulbe,22/03/2023,-15:16:00,00:43
 Bug,Entregue,Sintesc,21/03/2023,06:14,15:56
 Bug,Entregue,Sintesc,21/03/2023,08:00,08:00
@@ -2040,82 +1904,174 @@ Bug,Entregue,Casa Pleno,01/03/2023,07:15,-06:13:00
 Bug,Entregue,Casa Pleno,01/03/2023,07:19,-06:01:00
 New Feature,Entregue,Bulbe,01/03/2023,07:52,-50:08:00
 Bug,Entregue,Bulbe,01/03/2023,07:54,-08:12:00
-HelpDesk Support,Resolvido,Bulbe,28/02/2023,07:59,08:15
-HelpDesk Support,Resolvido,Sintesc,29/08/2025,00:07,-62:38:00
-HelpDesk Support,Resolvido,EaseLabs,31/07/2025,-00:12:00,-188:45:00
-Bug,Entregue,Sintesc,18/09/2025,00:17,21:26
-Bug,Entregue,Claro - Hub de Aparelhos,16/09/2025,00:17,19:11
-Bug,Entregue,Sintesc,15/09/2025,-00:01:00,00:20
-Bug,Entregue,Sintesc,11/09/2025,-00:23:00,15:20
-New Feature,Entregue,Sintesc,10/09/2025,00:05,-15:10:00
-Bug,Entregue,Sintesc,09/09/2025,00:10,23:50
-New Feature,Entregue,Sintesc,08/09/2025,00:17,20:30
-New Feature,Entregue,Jaguar Mining,08/09/2025,23:43,
-Bug,Entregue,Sintesc,08/09/2025,-45:18:00,-21:38:00
-Bug,Entregue,Sintesc,05/09/2025,00:11,-28:55:00
-Bug,Entregue,Sintesc,05/09/2025,-00:23:00,-35:21:00
-Bug,Entregue,Claro - Hub de Aparelhos,04/09/2025,-00:18:00,-01:41:00
-Bug,Entregue,Claro - Hub de Aparelhos,04/09/2025,-00:42:00,02:05
-Bug,Entregue,Claro - Hub de Aparelhos,04/09/2025,00:16,-03:11:00
-New Feature,Entregue,Claro - Antiquebra,01/09/2025,23:48,-07:23:00
-Bug,Entregue,Sintesc,28/08/2025,21:07,
-New Feature,Entregue,Mais Alívio,26/08/2025,23:34,
-Bug,Entregue,Sintesc,22/08/2025,-00:30:00,-96:47:00
-New Feature,Entregue,Sintesc,22/08/2025,23:14,
-Bug,Entregue,Sintesc,21/08/2025,-00:28:00,-117:34:00
-Bug,Entregue,Sintesc,21/08/2025,-00:25:00,-112:37:00
-New Feature,Entregue,Sintesc,20/08/2025,23:39,-95:25:00
-Bug,Entregue,Sintesc,20/08/2025,-00:17:00,-115:37:00
-New Feature,Entregue,Sintesc,18/08/2025,-02:46:00,-138:53:00
-Bug,Entregue,Solução em Focco,08/08/2025,-01:01:00,-161:12:00
-Bug,Entregue,Solução em Focco,08/08/2025,-00:59:00,-161:13:00
-Bug,Entregue,Solução em Focco,07/08/2025,-02:33:00,-162:51:00
-Bug,Entregue,Solução em Focco,07/08/2025,-02:10:00,-163:03:00
-New Feature,Entregue,Sintesc,01/08/2025,-00:50:00,-217:20:00
-Bug,Entregue,Claro - Antiquebra,01/08/2025,00:09,-218:49:00
-New Feature,Entregue,Sintesc,14/07/2025,-337:20:00,
-New Feature,Entregue,Claro - Antiquebra,03/07/2025,-406:38:00,
-New Feature,Entregue,Mais Alívio,01/07/2025,-422:08:00,
-New Feature,Entregue,Mais Alívio,12/06/2025,-514:36:00,
-New Feature,Entregue,Sintesc,09/06/2025,-532:24:00,
-New Feature,Entregue,Sintesc,10/04/2025,-897:06:00,
+New Feature,Pendente,Claro - Hub de Aparelhos,22/09/2025,-00:07:00,-00:58:00
+New Feature,Pendente,Jaguar Mining,22/09/2025,23:50,
 New Feature,Pendente,Sintesc,19/09/2025,23:15,
-New Feature,Pendente,EaseLabs,18/09/2025,00:20,22:03
-New Feature,Pendente,Claro - Hub de Aparelhos,17/09/2025,14:03,
-New Feature,Pendente,Sintesc,16/09/2025,00:18,04:08
-Bug,Pendente,Claro - Hub de Aparelhos,12/09/2025,-00:04:00,-10:53:00
-New Feature,Pendente,Claro - Hub de Aparelhos,12/09/2025,00:17,-11:10:00
-New Feature,Pendente,Claro - Hub de Aparelhos,11/09/2025,-00:13:00,-17:56:00
-New Feature,Pendente,Solução em Focco,10/09/2025,00:18,-31:47:00
-Bug,Pendente,Claro - Antiquebra,09/09/2025,-00:27:00,-41:56:00
+New Feature,Pendente,Claro - Hub de Aparelhos,17/09/2025,-22:19:00,
+Bug,Pendente,Claro - Hub de Aparelhos,12/09/2025,-00:04:00,-47:16:00
+New Feature,Pendente,Claro - Hub de Aparelhos,12/09/2025,00:17,-47:33:00
+New Feature,Pendente,Claro - Hub de Aparelhos,11/09/2025,-00:13:00,-54:19:00
+New Feature,Pendente,Solução em Focco,10/09/2025,00:18,-68:10:00
+Bug,Pendente,Claro - Antiquebra,08/09/2025,-00:27:00,-78:19:00
 New Feature,Pendente,Sintesc,08/09/2025,23:49,
-Bug,Pendente,Sintesc,08/09/2025,00:05,-49:25:00
-New Feature,Pendente,Claro - Antiquebra,08/09/2025,22:50,-25:56:00
+Bug,Pendente,Sintesc,08/09/2025,00:05,-85:48:00
+New Feature,Pendente,Claro - Antiquebra,08/09/2025,22:50,-62:19:00
 New Feature,Pendente,Claro - Antiquebra,07/09/2025,22:54,
 New Feature,Pendente,Claro - Antiquebra,07/09/2025,22:55,
 New Feature,Pendente,Claro - Antiquebra,07/09/2025,22:56,
+Bug,Pendente,Claro - Antiquebra,06/09/2025,-00:23:00,-86:19:00
+Bug,Pendente,Claro - Antiquebra,06/09/2025,-00:21:00,-86:19:00
 New Feature,Pendente,EaseLabs,05/09/2025,23:10,
-Bug,Em progresso,Claro - Antiquebra,19/09/2025,-00:18:00,22:03
-Bug,Em progresso,Mais Alívio,18/09/2025,23:58,43:08:00
-Bug,Em progresso,Sintesc,17/09/2025,00:15,09:15
-Bug,Em progresso,Sintesc,17/09/2025,00:16,09:05
-Bug,Em progresso,Claro - Hub de Aparelhos,16/09/2025,-00:09:00,04:12
-Bug,Em progresso,Sintesc,16/09/2025,-00:53:00,02:53
-Bug,Em progresso,Sintesc,15/09/2025,00:08,-04:25:00
-Bug,Em progresso,Sintesc,15/09/2025,-01:30:00,-06:21:00
-Bug,Em progresso,Sintesc,15/09/2025,00:15,-08:22:00
-Bug,Em progresso,Sintesc,13/09/2025,-00:07:00,-09:56:00
-Bug,Em progresso,Claro - Hub de Aparelhos,12/09/2025,00:16,-11:05:00
-New Feature,Em progresso,Claro - Hub de Aparelhos,12/09/2025,00:10,-11:45:00
-Bug,Em progresso,Claro - Antiquebra,12/09/2025,00:17,-15:00:00
-Bug,Em progresso,Claro - Hub de Aparelhos,11/09/2025,-41:36:00,-17:56:00
-Bug,Em progresso,Sintesc,10/09/2025,00:11,-30:50:00
-Bug,Em progresso,Sintesc,10/09/2025,00:13,-33:19:00
-Bug,Em progresso,Claro - Antiquebra,08/09/2025,-00:27:00,-41:56:00
-Bug,Em progresso,Sintesc,08/09/2025,00:09,-43:15:00
-Bug,Em progresso,Claro - Antiquebra,06/09/2025,-00:23:00,-49:56:00
-Bug,Em progresso,Claro - Antiquebra,06/09/2025,-00:21:00,-49:56:00
-Bug,Em progresso,Claro - Antiquebra,06/09/2025,-00:19:00,-49:56:00
+New Feature,Pendente,Sintesc,04/09/2025,-00:22:00,-94:19:00
+New Feature,Pendente,Claro - Hub de Aparelhos,03/09/2025,20:49,
+New Feature,Pendente,Claro - Hub de Aparelhos,03/09/2025,00:16,-105:03:00
+New Feature,Pendente,Claro - Hub de Aparelhos,03/09/2025,23:53,
+New Feature,Pendente,Mais Alívio,02/09/2025,00:16,-115:19:00
+New Feature,Pendente,Solução em Focco,21/08/2025,-03:27:00,-180:24:00
+New Feature,Pendente,Solução em Focco,21/08/2025,-03:26:00,-180:25:00
+New Feature,Pendente,Solução em Focco,21/08/2025,-03:22:00,-180:26:00
+New Feature,Pendente,Sintesc,19/08/2025,-00:57:00,-196:32:00
+New Feature,Pendente,Claro - Antiquebra,13/08/2025,22:48,
+New Feature,Pendente,Sintesc,05/08/2025,22:21,
+HelpDesk Support,Pendente,EaseLabs,30/07/2025,-302:19:00,-278:19:00
+New Feature,Pendente,Sintesc,29/07/2025,23:52,
+HelpDesk Support,Pendente,Mais Alívio,22/07/2025,21:32,-328:21:00
+New Feature,Pendente,Claro - Hub de Aparelhos,21/07/2025,23:50,
+New Feature,Pendente,Mais Alívio,21/07/2025,21:57,
+New Feature,Pendente,Sintesc,11/07/2025,-407:20:00,
+New Feature,Pendente,Claro - Manifestos RMG,09/07/2025,-424:40:00,
+New Feature,Pendente,Claro - Manifestos RMG,09/07/2025,-424:42:00,
+New Feature,Pendente,Claro - Antiquebra,05/07/2025,-446:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/07/2025,-446:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/07/2025,-446:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/07/2025,-446:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/07/2025,-446:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/07/2025,-446:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/07/2025,-446:19:00,
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-454:41:00,
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-455:20:00,
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-455:25:00,
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-455:30:00,-431:30:00
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-455:33:00,
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-455:36:00,
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-455:39:00,
+New Feature,Pendente,Claro - Manifestos RMG,03/07/2025,-455:40:00,
+New Feature,Pendente,Mais Alívio,02/07/2025,-463:40:00,
+New Feature,Pendente,Claro - Antiquebra,29/06/2025,-486:19:00,-462:19:00
+New Feature,Pendente,Claro - Antiquebra,28/06/2025,-486:19:00,
+New Feature,Pendente,Claro - Antiquebra,28/06/2025,-486:19:00,-462:19:00
+Bug,Pendente,Visione,25/06/2025,-530:45:00,-507:05:00
+New Feature,Pendente,Sintesc,20/06/2025,-526:54:00,
+New Feature,Pendente,Sintesc,20/06/2025,-528:04:00,
+New Feature,Pendente,Sintesc,20/06/2025,-528:49:00,
+New Feature,Pendente,Jaguar Mining,02/06/2025,-644:54:00,
+New Feature,Pendente,Dr. de Todos,22/05/2025,-697:00:00,
+New Feature,Pendente,Dr. de Todos,22/05/2025,-697:01:00,
+New Feature,Pendente,Claro - Antiquebra,15/05/2025,-734:19:00,
+New Feature,Pendente,Claro - Antiquebra,26/04/2025,-846:19:00,
+New Feature,Pendente,Jaguar Mining,08/04/2025,-956:25:00,
+New Feature,Pendente,Sintesc,04/04/2025,-971:16:00,
+New Feature,Pendente,Sintesc,31/03/2025,-1002:56:00,
+New Feature,Pendente,Bro Energy,21/03/2025,-1051:13:00,
+New Feature,Pendente,Sintesc,16/03/2025,-1086:19:00,
+Bug,Pendente,Claro - Antiquebra,26/02/2025,-1212:20:00,-1188:40:00
+New Feature,Pendente,Claro - Antiquebra,22/02/2025,-1206:19:00,
+New Feature,Pendente,Claro - Antiquebra,22/02/2025,-1206:19:00,
+New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,16/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,15/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,15/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,15/02/2025,-1246:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/02/2025,-1310:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1662:19:00,
+New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1662:25:00,
+New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1662:26:00,
+New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1662:29:00,
+New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1662:32:00,
+New Feature,Pendente,Claro - Antiquebra,04/12/2024,-1662:33:00,
+New Feature,Pendente,Sintesc,30/04/2024,13:45,
+New Feature,Pendente,Sintesc,14/08/2023,-1217:34:00,
+New Feature,Pendente,Sintesc,12/06/2023,-1576:49:00,
+HelpDesk Support,Cancelado,EaseLabs,21/07/2025,-00:45:00,08:00
+HelpDesk Support,Cancelado,Jaguar Mining,15/05/2025,23:39,
+HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,24/04/2025,-01:43:00,21:56
+HelpDesk Support,Cancelado,Jaguar Mining,09/12/2024,22:45,
+HelpDesk Support,Cancelado,Jaguar Mining,28/10/2024,-04:26:00,
+HelpDesk Support,Cancelado,Jaguar Mining,28/10/2024,-04:26:00,
+HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,06/09/2024,23:57,
+HelpDesk Support,Cancelado,Sintesc,12/08/2024,00:17,23:57
+HelpDesk Support,Cancelado,Sintesc,12/08/2024,00:16,23:46
+HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,11/07/2024,00:01,-62:07:00
+HelpDesk Support,Cancelado,Pro Labore,06/09/2023,-18:18:00,-192:27:00
+HelpDesk Support,Cancelado,Claro - Hub de Aparelhos,11/07/2023,07:33,23:33
+HelpDesk Support,Cancelado,Sintesc,14/06/2023,02:54,18:54
+Bug,Em progresso,Sintesc,25/09/2025,00:16,22:31
+Bug,Em progresso,Claro - Hub de Aparelhos,24/09/2025,00:00,14:58
+Bug,Em progresso,Claro - Hub de Aparelhos,24/09/2025,00:15,14:39
+Bug,Em progresso,Sintesc,24/09/2025,00:16,10:38
+New Feature,Em progresso,Claro - Hub de Aparelhos,22/09/2025,-00:17:00,-01:10:00
+Bug,Em progresso,Claro - Antiquebra,19/09/2025,-00:18:00,-14:19:00
+Bug,Em progresso,Mais Alívio,18/09/2025,23:58,06:44
+Bug,Em progresso,Sintesc,17/09/2025,00:16,-27:17:00
+Bug,Em progresso,Claro - Hub de Aparelhos,16/09/2025,-00:09:00,-32:10:00
+Bug,Em progresso,Sintesc,16/09/2025,-00:53:00,-33:29:00
+Bug,Em progresso,Sintesc,15/09/2025,00:08,-40:48:00
+Bug,Em progresso,Sintesc,15/09/2025,-01:30:00,-42:44:00
+Bug,Em progresso,Sintesc,13/09/2025,-00:07:00,-46:19:00
+Bug,Em progresso,Claro - Hub de Aparelhos,12/09/2025,00:16,-47:28:00
+New Feature,Em progresso,Claro - Hub de Aparelhos,12/09/2025,00:10,-48:08:00
+Bug,Em progresso,Claro - Antiquebra,12/09/2025,00:17,-51:23:00
+Bug,Em progresso,Claro - Hub de Aparelhos,11/09/2025,-77:59:00,-54:19:00
+Bug,Em progresso,Sintesc,10/09/2025,00:11,-67:13:00
+Bug,Em progresso,Sintesc,10/09/2025,00:13,-69:42:00
+Bug,Em progresso,Claro - Antiquebra,09/09/2025,-00:27:00,-78:19:00
+Bug,Em progresso,Sintesc,08/09/2025,00:09,-79:39:00
+New Feature,Em progresso,Claro - Antiquebra,07/09/2025,22:58,-62:19:00
+Bug,Em progresso,Claro - Antiquebra,06/09/2025,-00:19:00,-86:19:00
 New Feature,Em progresso,Claro - Antiquebra,06/09/2025,23:00,
 New Feature,Em progresso,EaseLabs,05/09/2025,23:07,
 New Feature,Em progresso,EaseLabs,05/09/2025,23:08,
+Bug,Em progresso,Claro - Antiquebra,03/09/2025,-00:28:00,-102:19:00
+Bug,Em progresso,Claro - Antiquebra,03/09/2025,-00:22:00,-102:19:00
+New Feature,Em progresso,Dr. de Todos,02/09/2025,22:44,
+Bug,Em progresso,Claro - Hub de Aparelhos,28/08/2025,-00:07:00,-135:58:00
+New Feature,Em progresso,Solução em Focco,25/08/2025,-03:11:00,-163:53:00
+New Feature,Em progresso,Solução em Focco,25/08/2025,-03:10:00,-163:53:00
+Bug,Em progresso,Solução em Focco,25/08/2025,-03:05:00,-163:54:00
+New Feature,Em progresso,Solução em Focco,25/08/2025,-03:10:00,-163:56:00
+Bug,Em progresso,Solução em Focco,25/08/2025,-03:04:00,-163:57:00
+Bug,Em progresso,Solução em Focco,25/08/2025,-02:53:00,-163:58:00
+New Feature,Em progresso,Solução em Focco,25/08/2025,-02:51:00,-163:59:00
+Bug,Em progresso,Solução em Focco,21/08/2025,-03:17:00,-180:12:00
+Bug,Em progresso,Solução em Focco,21/08/2025,-03:19:00,-180:26:00
+New Feature,Em progresso,Claro - Hub de Aparelhos,18/08/2025,22:22,
+Bug,Em progresso,Mais Alívio,08/08/2025,00:06,-249:31:00
+Bug,Em progresso,Claro - Antiquebra,01/08/2025,00:03,-310:15:00
+Bug,Em progresso,Claro - Antiquebra,29/07/2025,00:07,-337:39:00
+New Feature,Em progresso,Claro - Hub de Aparelhos,28/07/2025,23:39,
+New Feature,Em progresso,Mais Alívio,22/07/2025,21:36,
+New Feature,Em progresso,Mais Alívio,08/07/2025,-436:13:00,
+New Feature,Em progresso,Mais Alívio,08/07/2025,-436:40:00,
+New Feature,Em progresso,Claro - Hub de Aparelhos,04/07/2025,-446:19:00,
+New Feature,Em progresso,Mais Alívio,30/06/2025,-482:57:00,
+New Feature,Em progresso,Mais Alívio,24/06/2025,-511:10:00,
+New Feature,Em progresso,Claro - Antiquebra,24/06/2025,-517:26:00,-493:26:00
+New Feature,Em progresso,Sintesc,23/06/2025,-514:23:00,
+New Feature,Em progresso,Mais Alívio,20/06/2025,-529:52:00,
+New Feature,Em progresso,Mais Alívio,20/06/2025,-529:54:00,
+New Feature,Em progresso,Mais Alívio,18/06/2025,-548:55:00,
+New Feature,Em progresso,Mais Alívio,03/06/2025,-632:27:00,
+New Feature,Em progresso,Mais Alívio,03/06/2025,-658:55:00,-651:15:00
+Bug,Em progresso,Solução em Focco,30/05/2025,-675:39:00,-651:59:00
+New Feature,Em progresso,Solução em Focco,30/05/2025,-652:33:00,
+Bug,Em progresso,Solução em Focco,30/05/2025,-676:20:00,-652:40:00
+Bug,Em progresso,Solução em Focco,30/05/2025,-676:24:00,-652:44:00
+Bug,Em progresso,Solução em Focco,30/05/2025,-676:25:00,-652:45:00
+Bug,Em progresso,Solução em Focco,30/05/2025,-676:26:00,-652:46:00
+Bug,Em progresso,Solução em Focco,30/05/2025,-676:33:00,-652:53:00
+New Feature,Em progresso,Dr. de Todos,22/05/2025,-697:01:00,
+New Feature,Em progresso,Sintesc,04/04/2025,-971:24:00,
+New Feature,Em progresso,Sintesc,04/04/2025,-971:28:00,
