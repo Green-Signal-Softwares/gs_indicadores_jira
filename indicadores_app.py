@@ -129,6 +129,11 @@ clientes_atendidos_anterior = df_anterior_filtrado['Organizacoes'].nunique()
 primeira_resposta_anterior = df_anterior_filtrado['primeira_resposta_horas'].mean()
 tempo_conclusao_anterior = df_anterior_filtrado['tempo_resolucao_horas'].mean()
 
+
+# MODIFICATION: Calculate previous period average in hours, then convert to minutes
+primeira_resposta_anterior_em_horas = df_anterior_filtrado['primeira_resposta_horas'].mean()
+primeira_resposta_anterior = primeira_resposta_anterior_em_horas * 60 # Convert to minutes
+
 def calcular_delta(atual, anterior):
     if pd.isna(anterior) or anterior == 0 or pd.isna(atual):
         return None
@@ -143,6 +148,7 @@ clientes_atendidos_delta = calcular_delta(clientes_atendidos, clientes_atendidos
 ticket_delta_total = calcular_delta(total_tickets, total_ticket_anterior)
 ticket_delta_aberto = calcular_delta (ticket_aberto, ticket_aberto_anterior)
 ticket_delta_encerrado = calcular_delta (ticket_entregue, ticket_entregue_anterior)
+
 
 st.title("Indicadores SLA 📉")
 colquantidade, coltickets,coltempo= st.columns([30,30,40])
@@ -169,8 +175,9 @@ with coltickets:
                 border = True)
 
 with coltempo:
-    st.subheader("Tempo Médio de Resposta")
-    st.metric("Primeira Resposta:", value=f"{primeira_resposta:.1f} horas" if not pd.isna(primeira_resposta) else "N/A",
+    st.subheader("Tempo Médio")
+    # MODIFICATION: Display the value in minutes
+    st.metric("Primeira Resposta:", value=f"{primeira_resposta:.2f} minutos" if not pd.isna(primeira_resposta) else "N/A",
                  delta=delta_pr,
                  delta_color="inverse",
                  border=True)
